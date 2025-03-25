@@ -44,12 +44,7 @@
           "12": "Yuki Tsunoda",
           "13": "Esteban Ocon",
           "14": "Oliver Bearman",
-          "DNF": "Liam Lawson",
-          "DNF": "Gabriel Bortoleto",
-          "DNF": "Fernando Alonso",
-          "DNF": "Carlos Sainz",
-          "DNF": "Jack Doohan",
-          "DNF": "Isack Hadjar"
+          "DNF": ["Liam Lawson", "Gabriel Bortoleto", "Fernando Alonso", "Carlos Sainz", "Jack Doohan", "Isack Hadjar"]
         }
       },
       {
@@ -142,10 +137,8 @@
           "14": "Gabriel Bortoleto",
           "15": "Nico Hulkenberg",
           "16": "Yuki Tsunoda",
-          "DNF": "Fernando Alonso",
-          "DQ": "Charles Leclerc",
-          "DQ": "Lewis Hamilton",
-          "DQ": "Pierre Gasly"
+          "DNF": ["Fernando Alonso"],
+          "DQ": ["Charles Leclerc", "Lewis Hamilton", "Pierre Gasly"]
         }
       },
       {
