@@ -3,8 +3,10 @@
       {
           "round": 1,
           "name": "Australia",
-          "dateRange": "14.03 - 16.03",
+          "start": "2025-03-14",
+          "end": "2025-03-16",
           "location": "Melbourne",
+          "description": "Albert Park Circuit w Melbourne to szybki tor uliczny, który łączy szerokie proste z technicznymi zakrętami. Znany z pięknych widoków i wymagających warunków.",
           "sprint": false,
           "quali": {
               "1": "Lando Norris",
@@ -49,8 +51,10 @@
       {
           "round": 2,
           "name": "Chiny",
-          "dateRange": "21.03 - 23.03",
+          "start": "2025-03-21",
+          "end": "2025-03-23",
           "location": "Szanghaj",
+          "description": "Shanghai International Circuit to nowoczesny tor z długimi prostymi i ciasnymi zakrętami, szczególnie słynny z sekwencji zakrętów 1-2, które przypominają ślimaka.",
           "sprint": true,
           "sprintQuali": {
               "1": "Lewis Hamilton",
@@ -142,155 +146,199 @@
       {
           "round": 3,
           "name": "Japonia",
-          "dateRange": "04.04 - 06.04",
+          "start": "2025-04-04",
+          "end": "2025-04-06",
           "location": "Suzuka",
+          "description": "Suzuka to jeden z najbardziej kultowych torów F1, znany z szybkich zakrętów, takich jak 130R, i wymagających sekcji, jak Spoon Curve.",
           "sprint": false
       },
       {
           "round": 4,
           "name": "Bahrajn",
-          "dateRange": "11.04 - 13.04",
+          "start": "2025-04-11",
+          "end": "2025-04-13",
           "location": "Sakhir",
+          "description": "Bahrain International Circuit w Sakhir to tor pustynny, który oferuje świetne możliwości wyprzedzania, szczególnie na prostej startowej.",
           "sprint": false
       },
       {
           "round": 5,
           "name": "Arabia Saudyjska",
-          "dateRange": "18.04 - 20.04",
+          "start": "2025-04-18",
+          "end": "2025-04-20",
           "location": "Dżudda",
+          "description": "Jeddah Corniche Circuit to szybki tor uliczny z długimi prostymi i ciasnymi zakrętami, otoczony pięknymi widokami na Morze Czerwone.",
           "sprint": false
       },
       {
           "round": 6,
           "name": "Miami",
-          "dateRange": "02.05 - 04.05",
+          "start": "2025-05-02",
+          "end": "2025-05-04",
           "location": "Miami",
+          "description": "Miami International Autodrome to tor wokół Hard Rock Stadium, łączący szybkie proste z technicznymi sekcjami.",
           "sprint": true
       },
       {
           "round": 7,
           "name": "Emilia-Romagna",
-          "dateRange": "16.05 - 18.05",
+          "start": "2025-05-16",
+          "end": "2025-05-18",
           "location": "Imola",
+          "description": "Autodromo Enzo e Dino Ferrari w Imoli to historyczny tor z szybkimi zakrętami i bogatą historią F1.",
           "sprint": false
       },
       {
           "round": 8,
           "name": "Monako",
-          "dateRange": "23.05 - 25.05",
+          "start": "2025-05-23",
+          "end": "2025-05-25",
           "location": "Monako",
+          "description": "Circuit de Monaco to legendarny tor uliczny, znany z ciasnych zakrętów, tunelu i prestiżowego Grand Prix.",
           "sprint": false
       },
       {
           "round": 9,
           "name": "Hiszpania",
-          "dateRange": "30.05 - 01.06",
+          "start": "2025-05-30",
+          "end": "2025-06-01",
           "location": "Barcelona",
+          "description": "Circuit de Barcelona-Catalunya to tor testowy F1, znany z różnorodnych zakrętów i długiej prostej startowej.",
           "sprint": false
       },
       {
           "round": 10,
           "name": "Kanada",
-          "dateRange": "13.06 - 15.06",
+          "start": "2025-06-13",
+          "end": "2025-06-15",
           "location": "Montreal",
+          "description": "Circuit Gilles Villeneuve w Montrealu to szybki tor na wyspie Notre-Dame, z ikoniczną Ścianą Mistrzów.",
           "sprint": false
       },
       {
           "round": 11,
           "name": "Austria",
-          "dateRange": "27.06 - 29.06",
+          "start": "2025-06-27",
+          "end": "2025-06-29",
           "location": "Spielberg",
+          "description": "Red Bull Ring w Spielbergu to krótki, ale szybki tor w górzystym terenie, z dużymi różnicami wysokości.",
           "sprint": false
       },
       {
           "round": 12,
           "name": "Wielka Brytania",
-          "dateRange": "04.07 - 06.07",
+          "start": "2025-07-04",
+          "end": "2025-07-06",
           "location": "Silverstone",
+          "description": "Silverstone to kolebka F1, znana z szybkich zakrętów, takich jak Maggotts-Becketts, i historycznego znaczenia.",
           "sprint": false
       },
       {
           "round": 13,
           "name": "Belgia",
-          "dateRange": "25.07 - 27.07",
+          "start": "2025-07-25",
+          "end": "2025-07-27",
           "location": "Spa-Francorchamps",
+          "description": "Circuit de Spa-Francorchamps to jeden z ulubionych torów kierowców, z legendarnym zakrętem Eau Rouge i zmienną pogodą.",
           "sprint": true
       },
       {
           "round": 14,
           "name": "Węgry",
-          "dateRange": "01.08 - 03.08",
+          "start": "2025-08-01",
+          "end": "2025-08-03",
           "location": "Hungaroring",
+          "description": "Hungaroring to ciasny i kręty tor pod Budapesztem, często nazywany 'Monako bez barier'.",
           "sprint": false
       },
       {
           "round": 15,
           "name": "Holandia",
-          "dateRange": "29.08 - 31.08",
+          "start": "2025-08-29",
+          "end": "2025-08-31",
           "location": "Zandvoort",
+          "description": "Circuit Zandvoort to tor z nachylonymi zakrętami i piaszczystym otoczeniem, który wrócił do F1 w 2021 roku.",
           "sprint": false
       },
       {
           "round": 16,
           "name": "Włochy",
-          "dateRange": "05.09 - 07.09",
+          "start": "2025-09-05",
+          "end": "2025-09-07",
           "location": "Monza",
+          "description": "Autodromo Nazionale Monza, zwany Świątynią Prędkości, to najszybszy tor w kalendarzu F1.",
           "sprint": false
       },
       {
           "round": 17,
           "name": "Azerbejdżan",
-          "dateRange": "19.09 - 21.09",
+          "start": "2025-09-19",
+          "end": "2025-09-21",
           "location": "Baku",
+          "description": "Baku City Circuit to tor uliczny z długą prostą i ciasnymi zakrętami, szczególnie w sekcji zamkowej.",
           "sprint": false
       },
       {
           "round": 18,
           "name": "Singapur",
-          "dateRange": "03.10 - 05.10",
+          "start": "2025-10-03",
+          "end": "2025-10-05",
           "location": "Singapur",
+          "description": "Marina Bay Street Circuit to nocny wyścig w Singapurze, znany z trudnych warunków i pięknych świateł miasta.",
           "sprint": false
       },
       {
           "round": 19,
           "name": "Stany Zjednoczone",
-          "dateRange": "17.10 - 19.10",
+          "start": "2025-10-17",
+          "end": "2025-10-19",
           "location": "Austin",
+          "description": "Circuit of the Americas w Austin to tor z dużymi różnicami wysokości i inspirowanymi zakrętami z innych torów.",
           "sprint": true
       },
       {
           "round": 20,
           "name": "Meksyk",
-          "dateRange": "24.10 - 26.10",
+          "start": "2025-10-24",
+          "end": "2025-10-26",
           "location": "Meksyk",
+          "description": "Autódromo Hermanos Rodríguez w Meksyku to tor na dużej wysokości, z unikalną sekcją stadionu.",
           "sprint": false
       },
       {
           "round": 21,
           "name": "Brazylia",
-          "dateRange": "07.11 - 09.11",
+          "start": "2025-11-07",
+          "end": "2025-11-09",
           "location": "São Paulo",
+          "description": "Interlagos w São Paulo to tor z bogatą historią i zmienną pogodą, znany z emocjonujących wyścigów.",
           "sprint": true
       },
       {
           "round": 22,
           "name": "Las Vegas",
-          "dateRange": "20.11 - 22.11",
+          "start": "2025-11-20",
+          "end": "2025-11-22",
           "location": "Las Vegas",
+          "description": "Las Vegas Strip Circuit to nocny wyścig uliczny, który przebiega przez słynne ulice Las Vegas.",
           "sprint": false
       },
       {
           "round": 23,
           "name": "Katar",
-          "dateRange": "28.11 - 30.11",
+          "start": "2025-11-28",
+          "end": "2025-11-30",
           "location": "Losail",
+          "description": "Losail International Circuit to tor w Katarze, znany z nocnych wyścigów i szybkich zakrętów.",
           "sprint": true
       },
       {
           "round": 24,
           "name": "Abu Zabi",
-          "dateRange": "05.12 - 07.12",
+          "start": "2025-12-05",
+          "end": "2025-12-07",
           "location": "Yas Marina",
+          "description": "Yas Marina Circuit to tor w Abu Zabi, znany z luksusowego otoczenia i finału sezonu F1.",
           "sprint": false
       }
   ],
