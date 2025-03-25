@@ -6,7 +6,15 @@
           "start": "2025-03-14",
           "end": "2025-03-16",
           "location": "Melbourne",
-          "description": "Albert Park Circuit w Melbourne to szybki tor uliczny, który łączy szerokie proste z technicznymi zakrętami. Znany z pięknych widoków i wymagających warunków.",
+          "description": {
+              "country": "Australia",
+              "location": "Melbourne, Wiktoria",
+              "opened": 1996,
+              "usedSince": 1996,
+              "length": "5,279 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:20.235 (Charles Leclerc, Ferrari, 2022)"
+          },
           "sprint": false,
           "quali": {
               "1": "Lando Norris",
@@ -54,7 +62,15 @@
           "start": "2025-03-21",
           "end": "2025-03-23",
           "location": "Szanghaj",
-          "description": "Shanghai International Circuit to nowoczesny tor z długimi prostymi i ciasnymi zakrętami, szczególnie słynny z sekwencji zakrętów 1-2, które przypominają ślimaka.",
+          "description": {
+              "country": "Chiny",
+              "location": "Szanghaj",
+              "opened": 2004,
+              "usedSince": 2004,
+              "length": "5,451 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:32.238 (Michael Schumacher, Ferrari, 2004)"
+          },
           "sprint": true,
           "sprintQuali": {
               "1": "Lewis Hamilton",
@@ -149,7 +165,15 @@
           "start": "2025-04-04",
           "end": "2025-04-06",
           "location": "Suzuka",
-          "description": "Suzuka to jeden z najbardziej kultowych torów F1, znany z szybkich zakrętów, takich jak 130R, i wymagających sekcji, jak Spoon Curve.",
+          "description": {
+              "country": "Japonia",
+              "location": "Prefektura Mie",
+              "opened": 1962,
+              "usedSince": 1987,
+              "length": "5,807 km",
+              "direction": "zgodnie ze wskazówkami zegara, ósemka",
+              "lapRecord": "1:27.064 (Sebastian Vettel, Ferrari, 2019)"
+          },
           "sprint": false
       },
       {
@@ -158,7 +182,15 @@
           "start": "2025-04-11",
           "end": "2025-04-13",
           "location": "Sakhir",
-          "description": "Bahrain International Circuit w Sakhir to tor pustynny, który oferuje świetne możliwości wyprzedzania, szczególnie na prostej startowej.",
+          "description": {
+              "country": "Bahrajn",
+              "location": "Sakhir",
+              "opened": 2004,
+              "usedSince": 2004,
+              "length": "5,412 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:31.447 (Pedro de la Rosa, McLaren, 2005)"
+          },
           "sprint": false
       },
       {
@@ -167,7 +199,15 @@
           "start": "2025-04-18",
           "end": "2025-04-20",
           "location": "Dżudda",
-          "description": "Jeddah Corniche Circuit to szybki tor uliczny z długimi prostymi i ciasnymi zakrętami, otoczony pięknymi widokami na Morze Czerwone.",
+          "description": {
+              "country": "Arabia Saudyjska",
+              "location": "Dżudda",
+              "opened": 2021,
+              "usedSince": 2021,
+              "length": "6,174 km",
+              "direction": "przeciwnie do wskazówek zegara",
+              "lapRecord": "1:30.734 (Lewis Hamilton, Mercedes, 2021)"
+          },
           "sprint": false
       },
       {
@@ -176,7 +216,15 @@
           "start": "2025-05-02",
           "end": "2025-05-04",
           "location": "Miami",
-          "description": "Miami International Autodrome to tor wokół Hard Rock Stadium, łączący szybkie proste z technicznymi sekcjami.",
+          "description": {
+              "country": "Stany Zjednoczone",
+              "location": "Miami, Floryda",
+              "opened": 2022,
+              "usedSince": 2022,
+              "length": "5,412 km",
+              "direction": "przeciwnie do wskazówek zegara",
+              "lapRecord": "1:29.708 (Max Verstappen, Red Bull, 2023)"
+          },
           "sprint": true
       },
       {
@@ -185,7 +233,15 @@
           "start": "2025-05-16",
           "end": "2025-05-18",
           "location": "Imola",
-          "description": "Autodromo Enzo e Dino Ferrari w Imoli to historyczny tor z szybkimi zakrętami i bogatą historią F1.",
+          "description": {
+              "country": "Włochy",
+              "location": "Imola, Emilia-Romania",
+              "opened": 1953,
+              "usedSince": 1980,
+              "length": "4,909 km",
+              "direction": "przeciwnie do wskazówek zegara",
+              "lapRecord": "1:15.484 (Lewis Hamilton, Mercedes, 2020)"
+          },
           "sprint": false
       },
       {
@@ -194,7 +250,15 @@
           "start": "2025-05-23",
           "end": "2025-05-25",
           "location": "Monako",
-          "description": "Circuit de Monaco to legendarny tor uliczny, znany z ciasnych zakrętów, tunelu i prestiżowego Grand Prix.",
+          "description": {
+              "country": "Monako",
+              "location": "Monte Carlo",
+              "opened": 1929,
+              "usedSince": 1950,
+              "length": "3,337 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:12.909 (Lewis Hamilton, Mercedes, 2019)"
+          },
           "sprint": false
       },
       {
@@ -203,7 +267,15 @@
           "start": "2025-05-30",
           "end": "2025-06-01",
           "location": "Barcelona",
-          "description": "Circuit de Barcelona-Catalunya to tor testowy F1, znany z różnorodnych zakrętów i długiej prostej startowej.",
+          "description": {
+              "country": "Hiszpania",
+              "location": "Montmeló, Katalonia",
+              "opened": 1991,
+              "usedSince": 1991,
+              "length": "4,675 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:16.330 (Max Verstappen, Red Bull, 2023)"
+          },
           "sprint": false
       },
       {
@@ -212,7 +284,15 @@
           "start": "2025-06-13",
           "end": "2025-06-15",
           "location": "Montreal",
-          "description": "Circuit Gilles Villeneuve w Montrealu to szybki tor na wyspie Notre-Dame, z ikoniczną Ścianą Mistrzów.",
+          "description": {
+              "country": "Kanada",
+              "location": "Montreal, Quebec",
+              "opened": 1978,
+              "usedSince": 1978,
+              "length": "4,361 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:13.078 (Valtteri Bottas, Mercedes, 2019)"
+          },
           "sprint": false
       },
       {
@@ -221,7 +301,15 @@
           "start": "2025-06-27",
           "end": "2025-06-29",
           "location": "Spielberg",
-          "description": "Red Bull Ring w Spielbergu to krótki, ale szybki tor w górzystym terenie, z dużymi różnicami wysokości.",
+          "description": {
+              "country": "Austria",
+              "location": "Spielberg, Styria",
+              "opened": 1969,
+              "usedSince": 1970,
+              "length": "4,318 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:05.619 (Carlos Sainz, Ferrari, 2020)"
+          },
           "sprint": false
       },
       {
@@ -230,7 +318,15 @@
           "start": "2025-07-04",
           "end": "2025-07-06",
           "location": "Silverstone",
-          "description": "Silverstone to kolebka F1, znana z szybkich zakrętów, takich jak Maggotts-Becketts, i historycznego znaczenia.",
+          "description": {
+              "country": "Wielka Brytania",
+              "location": "Northamptonshire",
+              "opened": 1948,
+              "usedSince": 1950,
+              "length": "5,891 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:27.097 (Max Verstappen, Red Bull, 2020)"
+          },
           "sprint": false
       },
       {
@@ -239,7 +335,15 @@
           "start": "2025-07-25",
           "end": "2025-07-27",
           "location": "Spa-Francorchamps",
-          "description": "Circuit de Spa-Francorchamps to jeden z ulubionych torów kierowców, z legendarnym zakrętem Eau Rouge i zmienną pogodą.",
+          "description": {
+              "country": "Belgia",
+              "location": "Stavelot, Walonia",
+              "opened": 1921,
+              "usedSince": 1950,
+              "length": "7,004 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:46.286 (Lewis Hamilton, Mercedes, 2020)"
+          },
           "sprint": true
       },
       {
@@ -248,7 +352,15 @@
           "start": "2025-08-01",
           "end": "2025-08-03",
           "location": "Hungaroring",
-          "description": "Hungaroring to ciasny i kręty tor pod Budapesztem, często nazywany 'Monako bez barier'.",
+          "description": {
+              "country": "Węgry",
+              "location": "Mogyoród, pod Budapesztem",
+              "opened": 1986,
+              "usedSince": 1986,
+              "length": "4,381 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:16.627 (Lewis Hamilton, Mercedes, 2020)"
+          },
           "sprint": false
       },
       {
@@ -257,7 +369,15 @@
           "start": "2025-08-29",
           "end": "2025-08-31",
           "location": "Zandvoort",
-          "description": "Circuit Zandvoort to tor z nachylonymi zakrętami i piaszczystym otoczeniem, który wrócił do F1 w 2021 roku.",
+          "description": {
+              "country": "Holandia",
+              "location": "Zandvoort, Holandia Północna",
+              "opened": 1948,
+              "usedSince": 2021,
+              "length": "4,259 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:11.097 (Lewis Hamilton, Mercedes, 2021)"
+          },
           "sprint": false
       },
       {
@@ -266,7 +386,15 @@
           "start": "2025-09-05",
           "end": "2025-09-07",
           "location": "Monza",
-          "description": "Autodromo Nazionale Monza, zwany Świątynią Prędkości, to najszybszy tor w kalendarzu F1.",
+          "description": {
+              "country": "Włochy",
+              "location": "Monza, Lombardia",
+              "opened": 1922,
+              "usedSince": 1950,
+              "length": "5,793 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:21.046 (Rubens Barrichello, Ferrari, 2004)"
+          },
           "sprint": false
       },
       {
@@ -275,7 +403,15 @@
           "start": "2025-09-19",
           "end": "2025-09-21",
           "location": "Baku",
-          "description": "Baku City Circuit to tor uliczny z długą prostą i ciasnymi zakrętami, szczególnie w sekcji zamkowej.",
+          "description": {
+              "country": "Azerbejdżan",
+              "location": "Baku",
+              "opened": 2016,
+              "usedSince": 2017,
+              "length": "6,003 km",
+              "direction": "przeciwnie do wskazówek zegara",
+              "lapRecord": "1:43.009 (Charles Leclerc, Ferrari, 2019)"
+          },
           "sprint": false
       },
       {
@@ -284,7 +420,15 @@
           "start": "2025-10-03",
           "end": "2025-10-05",
           "location": "Singapur",
-          "description": "Marina Bay Street Circuit to nocny wyścig w Singapurze, znany z trudnych warunków i pięknych świateł miasta.",
+          "description": {
+              "country": "Singapur",
+              "location": "Marina Bay",
+              "opened": 2008,
+              "usedSince": 2008,
+              "length": "5,063 km",
+              "direction": "przeciwnie do wskazówek zegara",
+              "lapRecord": "1:41.905 (Kevin Magnussen, Haas, 2018)"
+          },
           "sprint": false
       },
       {
@@ -293,7 +437,15 @@
           "start": "2025-10-17",
           "end": "2025-10-19",
           "location": "Austin",
-          "description": "Circuit of the Americas w Austin to tor z dużymi różnicami wysokości i inspirowanymi zakrętami z innych torów.",
+          "description": {
+              "country": "Stany Zjednoczone",
+              "location": "Austin, Teksas",
+              "opened": 2012,
+              "usedSince": 2012,
+              "length": "5,513 km",
+              "direction": "przeciwnie do wskazówek zegara",
+              "lapRecord": "1:36.169 (Charles Leclerc, Ferrari, 2019)"
+          },
           "sprint": true
       },
       {
@@ -302,7 +454,15 @@
           "start": "2025-10-24",
           "end": "2025-10-26",
           "location": "Meksyk",
-          "description": "Autódromo Hermanos Rodríguez w Meksyku to tor na dużej wysokości, z unikalną sekcją stadionu.",
+          "description": {
+              "country": "Meksyk",
+              "location": "Meksyk, Meksyk",
+              "opened": 1962,
+              "usedSince": 2015,
+              "length": "4,304 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:17.774 (Valtteri Bottas, Mercedes, 2021)"
+          },
           "sprint": false
       },
       {
@@ -311,7 +471,15 @@
           "start": "2025-11-07",
           "end": "2025-11-09",
           "location": "São Paulo",
-          "description": "Interlagos w São Paulo to tor z bogatą historią i zmienną pogodą, znany z emocjonujących wyścigów.",
+          "description": {
+              "country": "Brazylia",
+              "location": "São Paulo",
+              "opened": 1940,
+              "usedSince": 1990,
+              "length": "4,309 km",
+              "direction": "przeciwnie do wskazówek zegara",
+              "lapRecord": "1:10.540 (Valtteri Bottas, Mercedes, 2018)"
+          },
           "sprint": true
       },
       {
@@ -320,7 +488,15 @@
           "start": "2025-11-20",
           "end": "2025-11-22",
           "location": "Las Vegas",
-          "description": "Las Vegas Strip Circuit to nocny wyścig uliczny, który przebiega przez słynne ulice Las Vegas.",
+          "description": {
+              "country": "Stany Zjednoczone",
+              "location": "Las Vegas, Nevada",
+              "opened": 2023,
+              "usedSince": 2023,
+              "length": "6,201 km",
+              "direction": "przeciwnie do wskazówek zegara",
+              "lapRecord": "1:35.490 (George Russell, Mercedes, 2023)"
+          },
           "sprint": false
       },
       {
@@ -329,7 +505,15 @@
           "start": "2025-11-28",
           "end": "2025-11-30",
           "location": "Losail",
-          "description": "Losail International Circuit to tor w Katarze, znany z nocnych wyścigów i szybkich zakrętów.",
+          "description": {
+              "country": "Katar",
+              "location": "Losail",
+              "opened": 2004,
+              "usedSince": 2021,
+              "length": "5,380 km",
+              "direction": "zgodnie ze wskazówkami zegara",
+              "lapRecord": "1:24.319 (Max Verstappen, Red Bull, 2021)"
+          },
           "sprint": true
       },
       {
@@ -338,7 +522,15 @@
           "start": "2025-12-05",
           "end": "2025-12-07",
           "location": "Yas Marina",
-          "description": "Yas Marina Circuit to tor w Abu Zabi, znany z luksusowego otoczenia i finału sezonu F1.",
+          "description": {
+              "country": "Zjednoczone Emiraty Arabskie",
+              "location": "Abu Zabi",
+              "opened": 2009,
+              "usedSince": 2009,
+              "length": "5,281 km",
+              "direction": "przeciwnie do wskazówek zegara",
+              "lapRecord": "1:26.103 (Max Verstappen, Red Bull, 2021)"
+          },
           "sprint": false
       }
   ],
