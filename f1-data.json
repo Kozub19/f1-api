@@ -8,11 +8,11 @@
           "location": "Melbourne",
           "description": {
               "country": "Australia",
-              "location": "Melbourne, Wiktoria",
+              "location": "Melbourne, Victoria",
               "opened": 1996,
               "usedSince": 1996,
-              "length": "5,279 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "5.279 km",
+              "direction": "clockwise",
               "lapRecord": "1:20.235 (Charles Leclerc, Ferrari, 2022)"
           },
           "sprint": false,
@@ -61,14 +61,14 @@
           "name": "Chiny",
           "start": "2025-03-21",
           "end": "2025-03-23",
-          "location": "Szanghaj",
+          "location": "Shanghai",
           "description": {
-              "country": "Chiny",
-              "location": "Szanghaj",
+              "country": "China",
+              "location": "Shanghai",
               "opened": 2004,
               "usedSince": 2004,
-              "length": "5,451 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "5.451 km",
+              "direction": "clockwise",
               "lapRecord": "1:32.238 (Michael Schumacher, Ferrari, 2004)"
           },
           "sprint": true,
@@ -166,12 +166,12 @@
           "end": "2025-04-06",
           "location": "Suzuka",
           "description": {
-              "country": "Japonia",
-              "location": "Prefektura Mie",
+              "country": "Japan",
+              "location": "Mie Prefecture",
               "opened": 1962,
               "usedSince": 1987,
-              "length": "5,807 km",
-              "direction": "zgodnie ze wskazówkami zegara, ósemka",
+              "length": "5.807 km",
+              "direction": "clockwise, figure-eight",
               "lapRecord": "1:27.064 (Sebastian Vettel, Ferrari, 2019)"
           },
           "sprint": false
@@ -183,12 +183,12 @@
           "end": "2025-04-13",
           "location": "Sakhir",
           "description": {
-              "country": "Bahrajn",
+              "country": "Bahrain",
               "location": "Sakhir",
               "opened": 2004,
               "usedSince": 2004,
-              "length": "5,412 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "5.412 km",
+              "direction": "clockwise",
               "lapRecord": "1:31.447 (Pedro de la Rosa, McLaren, 2005)"
           },
           "sprint": false
@@ -198,14 +198,14 @@
           "name": "Arabia Saudyjska",
           "start": "2025-04-18",
           "end": "2025-04-20",
-          "location": "Dżudda",
+          "location": "Jeddah",
           "description": {
-              "country": "Arabia Saudyjska",
-              "location": "Dżudda",
+              "country": "Saudi Arabia",
+              "location": "Jeddah",
               "opened": 2021,
               "usedSince": 2021,
-              "length": "6,174 km",
-              "direction": "przeciwnie do wskazówek zegara",
+              "length": "6.174 km",
+              "direction": "counterclockwise",
               "lapRecord": "1:30.734 (Lewis Hamilton, Mercedes, 2021)"
           },
           "sprint": false
@@ -217,12 +217,12 @@
           "end": "2025-05-04",
           "location": "Miami",
           "description": {
-              "country": "Stany Zjednoczone",
-              "location": "Miami, Floryda",
+              "country": "United States",
+              "location": "Miami, Florida",
               "opened": 2022,
               "usedSince": 2022,
-              "length": "5,412 km",
-              "direction": "przeciwnie do wskazówek zegara",
+              "length": "5.412 km",
+              "direction": "counterclockwise",
               "lapRecord": "1:29.708 (Max Verstappen, Red Bull, 2023)"
           },
           "sprint": true
@@ -234,12 +234,12 @@
           "end": "2025-05-18",
           "location": "Imola",
           "description": {
-              "country": "Włochy",
-              "location": "Imola, Emilia-Romania",
+              "country": "Italy",
+              "location": "Imola, Emilia-Romagna",
               "opened": 1953,
               "usedSince": 1980,
-              "length": "4,909 km",
-              "direction": "przeciwnie do wskazówek zegara",
+              "length": "4.909 km",
+              "direction": "counterclockwise",
               "lapRecord": "1:15.484 (Lewis Hamilton, Mercedes, 2020)"
           },
           "sprint": false
@@ -249,14 +249,14 @@
           "name": "Monako",
           "start": "2025-05-23",
           "end": "2025-05-25",
-          "location": "Monako",
+          "location": "Monaco",
           "description": {
-              "country": "Monako",
+              "country": "Monaco",
               "location": "Monte Carlo",
               "opened": 1929,
               "usedSince": 1950,
-              "length": "3,337 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "3.337 km",
+              "direction": "clockwise",
               "lapRecord": "1:12.909 (Lewis Hamilton, Mercedes, 2019)"
           },
           "sprint": false
@@ -268,12 +268,12 @@
           "end": "2025-06-01",
           "location": "Barcelona",
           "description": {
-              "country": "Hiszpania",
-              "location": "Montmeló, Katalonia",
+              "country": "Spain",
+              "location": "Montmeló, Catalonia",
               "opened": 1991,
               "usedSince": 1991,
-              "length": "4,675 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "4.675 km",
+              "direction": "clockwise",
               "lapRecord": "1:16.330 (Max Verstappen, Red Bull, 2023)"
           },
           "sprint": false
@@ -285,12 +285,12 @@
           "end": "2025-06-15",
           "location": "Montreal",
           "description": {
-              "country": "Kanada",
+              "country": "Canada",
               "location": "Montreal, Quebec",
               "opened": 1978,
               "usedSince": 1978,
-              "length": "4,361 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "4.361 km",
+              "direction": "clockwise",
               "lapRecord": "1:13.078 (Valtteri Bottas, Mercedes, 2019)"
           },
           "sprint": false
@@ -306,8 +306,8 @@
               "location": "Spielberg, Styria",
               "opened": 1969,
               "usedSince": 1970,
-              "length": "4,318 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "4.318 km",
+              "direction": "clockwise",
               "lapRecord": "1:05.619 (Carlos Sainz, Ferrari, 2020)"
           },
           "sprint": false
@@ -319,12 +319,12 @@
           "end": "2025-07-06",
           "location": "Silverstone",
           "description": {
-              "country": "Wielka Brytania",
+              "country": "United Kingdom",
               "location": "Northamptonshire",
               "opened": 1948,
               "usedSince": 1950,
-              "length": "5,891 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "5.891 km",
+              "direction": "clockwise",
               "lapRecord": "1:27.097 (Max Verstappen, Red Bull, 2020)"
           },
           "sprint": false
@@ -336,12 +336,12 @@
           "end": "2025-07-27",
           "location": "Spa-Francorchamps",
           "description": {
-              "country": "Belgia",
-              "location": "Stavelot, Walonia",
+              "country": "Belgium",
+              "location": "Stavelot, Wallonia",
               "opened": 1921,
               "usedSince": 1950,
-              "length": "7,004 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "7.004 km",
+              "direction": "clockwise",
               "lapRecord": "1:46.286 (Lewis Hamilton, Mercedes, 2020)"
           },
           "sprint": true
@@ -353,12 +353,12 @@
           "end": "2025-08-03",
           "location": "Hungaroring",
           "description": {
-              "country": "Węgry",
-              "location": "Mogyoród, pod Budapesztem",
+              "country": "Hungary",
+              "location": "Mogyoród, near Budapest",
               "opened": 1986,
               "usedSince": 1986,
-              "length": "4,381 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "4.381 km",
+              "direction": "clockwise",
               "lapRecord": "1:16.627 (Lewis Hamilton, Mercedes, 2020)"
           },
           "sprint": false
@@ -370,12 +370,12 @@
           "end": "2025-08-31",
           "location": "Zandvoort",
           "description": {
-              "country": "Holandia",
-              "location": "Zandvoort, Holandia Północna",
+              "country": "Netherlands",
+              "location": "Zandvoort, North Holland",
               "opened": 1948,
               "usedSince": 2021,
-              "length": "4,259 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "4.259 km",
+              "direction": "clockwise",
               "lapRecord": "1:11.097 (Lewis Hamilton, Mercedes, 2021)"
           },
           "sprint": false
@@ -387,12 +387,12 @@
           "end": "2025-09-07",
           "location": "Monza",
           "description": {
-              "country": "Włochy",
-              "location": "Monza, Lombardia",
+              "country": "Italy",
+              "location": "Monza, Lombardy",
               "opened": 1922,
               "usedSince": 1950,
-              "length": "5,793 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "5.793 km",
+              "direction": "clockwise",
               "lapRecord": "1:21.046 (Rubens Barrichello, Ferrari, 2004)"
           },
           "sprint": false
@@ -404,12 +404,12 @@
           "end": "2025-09-21",
           "location": "Baku",
           "description": {
-              "country": "Azerbejdżan",
+              "country": "Azerbaijan",
               "location": "Baku",
               "opened": 2016,
               "usedSince": 2017,
-              "length": "6,003 km",
-              "direction": "przeciwnie do wskazówek zegara",
+              "length": "6.003 km",
+              "direction": "counterclockwise",
               "lapRecord": "1:43.009 (Charles Leclerc, Ferrari, 2019)"
           },
           "sprint": false
@@ -419,14 +419,14 @@
           "name": "Singapur",
           "start": "2025-10-03",
           "end": "2025-10-05",
-          "location": "Singapur",
+          "location": "Singapore",
           "description": {
-              "country": "Singapur",
+              "country": "Singapore",
               "location": "Marina Bay",
               "opened": 2008,
               "usedSince": 2008,
-              "length": "5,063 km",
-              "direction": "przeciwnie do wskazówek zegara",
+              "length": "5.063 km",
+              "direction": "counterclockwise",
               "lapRecord": "1:41.905 (Kevin Magnussen, Haas, 2018)"
           },
           "sprint": false
@@ -438,12 +438,12 @@
           "end": "2025-10-19",
           "location": "Austin",
           "description": {
-              "country": "Stany Zjednoczone",
-              "location": "Austin, Teksas",
+              "country": "United States",
+              "location": "Austin, Texas",
               "opened": 2012,
               "usedSince": 2012,
-              "length": "5,513 km",
-              "direction": "przeciwnie do wskazówek zegara",
+              "length": "5.513 km",
+              "direction": "counterclockwise",
               "lapRecord": "1:36.169 (Charles Leclerc, Ferrari, 2019)"
           },
           "sprint": true
@@ -453,14 +453,14 @@
           "name": "Meksyk",
           "start": "2025-10-24",
           "end": "2025-10-26",
-          "location": "Meksyk",
+          "location": "Mexico City",
           "description": {
-              "country": "Meksyk",
-              "location": "Meksyk, Meksyk",
+              "country": "Mexico",
+              "location": "Mexico City",
               "opened": 1962,
               "usedSince": 2015,
-              "length": "4,304 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "4.304 km",
+              "direction": "clockwise",
               "lapRecord": "1:17.774 (Valtteri Bottas, Mercedes, 2021)"
           },
           "sprint": false
@@ -472,12 +472,12 @@
           "end": "2025-11-09",
           "location": "São Paulo",
           "description": {
-              "country": "Brazylia",
+              "country": "Brazil",
               "location": "São Paulo",
               "opened": 1940,
               "usedSince": 1990,
-              "length": "4,309 km",
-              "direction": "przeciwnie do wskazówek zegara",
+              "length": "4.309 km",
+              "direction": "counterclockwise",
               "lapRecord": "1:10.540 (Valtteri Bottas, Mercedes, 2018)"
           },
           "sprint": true
@@ -489,12 +489,12 @@
           "end": "2025-11-22",
           "location": "Las Vegas",
           "description": {
-              "country": "Stany Zjednoczone",
+              "country": "United States",
               "location": "Las Vegas, Nevada",
               "opened": 2023,
               "usedSince": 2023,
-              "length": "6,201 km",
-              "direction": "przeciwnie do wskazówek zegara",
+              "length": "6.201 km",
+              "direction": "counterclockwise",
               "lapRecord": "1:35.490 (George Russell, Mercedes, 2023)"
           },
           "sprint": false
@@ -506,12 +506,12 @@
           "end": "2025-11-30",
           "location": "Losail",
           "description": {
-              "country": "Katar",
+              "country": "Qatar",
               "location": "Losail",
               "opened": 2004,
               "usedSince": 2021,
-              "length": "5,380 km",
-              "direction": "zgodnie ze wskazówkami zegara",
+              "length": "5.380 km",
+              "direction": "clockwise",
               "lapRecord": "1:24.319 (Max Verstappen, Red Bull, 2021)"
           },
           "sprint": true
@@ -523,12 +523,12 @@
           "end": "2025-12-07",
           "location": "Yas Marina",
           "description": {
-              "country": "Zjednoczone Emiraty Arabskie",
-              "location": "Abu Zabi",
+              "country": "United Arab Emirates",
+              "location": "Abu Dhabi",
               "opened": 2009,
               "usedSince": 2009,
-              "length": "5,281 km",
-              "direction": "przeciwnie do wskazówek zegara",
+              "length": "5.281 km",
+              "direction": "counterclockwise",
               "lapRecord": "1:26.103 (Max Verstappen, Red Bull, 2021)"
           },
           "sprint": false
