@@ -58,7 +58,7 @@
       },
       {
           "round": 2,
-          "name": "Chiny",
+          "name": "China",
           "start": "2025-03-21",
           "end": "2025-03-23",
           "location": "Shanghai",
@@ -161,7 +161,7 @@
       },
       {
           "round": 3,
-          "name": "Japonia",
+          "name": "Japan",
           "start": "2025-04-04",
           "end": "2025-04-06",
           "location": "Suzuka",
@@ -178,7 +178,7 @@
       },
       {
           "round": 4,
-          "name": "Bahrajn",
+          "name": "Bahrain",
           "start": "2025-04-11",
           "end": "2025-04-13",
           "location": "Sakhir",
@@ -195,7 +195,7 @@
       },
       {
           "round": 5,
-          "name": "Arabia Saudyjska",
+          "name": "Saudi Arabia",
           "start": "2025-04-18",
           "end": "2025-04-20",
           "location": "Jeddah",
@@ -246,7 +246,7 @@
       },
       {
           "round": 8,
-          "name": "Monako",
+          "name": "Monaco",
           "start": "2025-05-23",
           "end": "2025-05-25",
           "location": "Monaco",
@@ -263,7 +263,7 @@
       },
       {
           "round": 9,
-          "name": "Hiszpania",
+          "name": "Spain",
           "start": "2025-05-30",
           "end": "2025-06-01",
           "location": "Barcelona",
@@ -280,7 +280,7 @@
       },
       {
           "round": 10,
-          "name": "Kanada",
+          "name": "Canada",
           "start": "2025-06-13",
           "end": "2025-06-15",
           "location": "Montreal",
@@ -314,7 +314,7 @@
       },
       {
           "round": 12,
-          "name": "Wielka Brytania",
+          "name": "United Kingdom",
           "start": "2025-07-04",
           "end": "2025-07-06",
           "location": "Silverstone",
@@ -331,7 +331,7 @@
       },
       {
           "round": 13,
-          "name": "Belgia",
+          "name": "Belgium",
           "start": "2025-07-25",
           "end": "2025-07-27",
           "location": "Spa-Francorchamps",
@@ -348,7 +348,7 @@
       },
       {
           "round": 14,
-          "name": "Węgry",
+          "name": "Hungary",
           "start": "2025-08-01",
           "end": "2025-08-03",
           "location": "Hungaroring",
@@ -365,7 +365,7 @@
       },
       {
           "round": 15,
-          "name": "Holandia",
+          "name": "Netherlands",
           "start": "2025-08-29",
           "end": "2025-08-31",
           "location": "Zandvoort",
@@ -382,7 +382,7 @@
       },
       {
           "round": 16,
-          "name": "Włochy",
+          "name": "Italy",
           "start": "2025-09-05",
           "end": "2025-09-07",
           "location": "Monza",
@@ -399,7 +399,7 @@
       },
       {
           "round": 17,
-          "name": "Azerbejdżan",
+          "name": "Azerbaijan",
           "start": "2025-09-19",
           "end": "2025-09-21",
           "location": "Baku",
@@ -416,7 +416,7 @@
       },
       {
           "round": 18,
-          "name": "Singapur",
+          "name": "Singapore",
           "start": "2025-10-03",
           "end": "2025-10-05",
           "location": "Singapore",
@@ -433,7 +433,7 @@
       },
       {
           "round": 19,
-          "name": "Stany Zjednoczone",
+          "name": "United States",
           "start": "2025-10-17",
           "end": "2025-10-19",
           "location": "Austin",
@@ -450,7 +450,7 @@
       },
       {
           "round": 20,
-          "name": "Meksyk",
+          "name": "Mexico",
           "start": "2025-10-24",
           "end": "2025-10-26",
           "location": "Mexico City",
@@ -467,7 +467,7 @@
       },
       {
           "round": 21,
-          "name": "Brazylia",
+          "name": "Brazil",
           "start": "2025-11-07",
           "end": "2025-11-09",
           "location": "São Paulo",
@@ -501,7 +501,7 @@
       },
       {
           "round": 23,
-          "name": "Katar",
+          "name": "Qatar",
           "start": "2025-11-28",
           "end": "2025-11-30",
           "location": "Losail",
@@ -518,7 +518,7 @@
       },
       {
           "round": 24,
-          "name": "Abu Zabi",
+          "name": "Abu Dhabi",
           "start": "2025-12-05",
           "end": "2025-12-07",
           "location": "Yas Marina",
