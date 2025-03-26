@@ -1,546 +1,642 @@
 {
     "calendar": [
-        {
-            "round": 1,
-            "name": "Australia",
-            "start": "2025-03-14",
-            "end": "2025-03-16",
-            "location": "Melbourne",
-            "description": {
-                "country": "Australia",
-                "location": "Melbourne, Victoria",
-                "opened": 1996,
-                "usedSince": 1996,
-                "length": "5.279 km",
-                "direction": "clockwise",
-                "lapRecord": "1:20.235 (Charles Leclerc, Ferrari, 2022)"
-            },
-            "sprint": false,
-            "quali": {
-                "1": "Lando Norris",
-                "2": "Oscar Piastri",
-                "3": "Max Verstappen",
-                "4": "George Russell",
-                "5": "Yuki Tsunoda",
-                "6": "Alex Albon",
-                "7": "Charles Leclerc",
-                "8": "Lewis Hamilton",
-                "9": "Pierre Gasly",
-                "10": "Carlos Sainz",
-                "11": "Esteban Ocon",
-                "12": "Liam Lawson",
-                "13": "Oliver Bearman",
-                "14": "Kimi Antonelli",
-                "15": "Lance Stroll",
-                "16": "Fernando Alonso",
-                "17": "Isack Hadjar",
-                "18": "Jack Doohan",
-                "19": "Nico Hulkenberg",
-                "20": "Gabriel Bortoleto"
-            },
-            "race": {
-                "1": "Lando Norris",
-                "2": "Max Verstappen",
-                "3": "George Russell",
-                "4": "Kimi Antonelli",
-                "5": "Alex Albon",
-                "6": "Lance Stroll",
-                "7": "Nico Hulkenberg",
-                "8": "Charles Leclerc",
-                "9": "Oscar Piastri",
-                "10": "Lewis Hamilton",
-                "11": "Pierre Gasly",
-                "12": "Yuki Tsunoda",
-                "13": "Esteban Ocon",
-                "14": "Oliver Bearman",
-                "DNF": ["Liam Lawson", "Gabriel Bortoleto", "Fernando Alonso", "Carlos Sainz", "Jack Doohan", "Isack Hadjar"]
-            }
+    {
+        "round": 1,
+        "name": "Australia",
+        "start": "2025-03-14",
+        "end": "2025-03-16",
+        "location": "Melbourne",
+        "coordinates": {
+            "lat": -37.8497,
+            "lon": 144.968
         },
-        {
-            "round": 2,
-            "name": "China",
-            "start": "2025-03-21",
-            "end": "2025-03-23",
-            "location": "Shanghai",
-            "description": {
-                "country": "China",
-                "location": "Shanghai",
-                "opened": 2004,
-                "usedSince": 2004,
-                "length": "5.451 km",
-                "direction": "clockwise",
-                "lapRecord": "1:32.238 (Michael Schumacher, Ferrari, 2004)"
-            },
-            "sprint": true,
-            "sprintQuali": {
-                "1": "Lewis Hamilton",
-                "2": "Max Verstappen",
-                "3": "Oscar Piastri",
-                "4": "George Russell",
-                "5": "Charles Leclerc",
-                "6": "Lando Norris",
-                "7": "Yuki Tsunoda",
-                "8": "Alex Albon",
-                "9": "Pierre Gasly",
-                "10": "Carlos Sainz",
-                "11": "Esteban Ocon",
-                "12": "Kimi Antonelli",
-                "13": "Oliver Bearman",
-                "14": "Liam Lawson",
-                "15": "Lance Stroll",
-                "16": "Fernando Alonso",
-                "17": "Isack Hadjar",
-                "18": "Jack Doohan",
-                "19": "Nico Hulkenberg",
-                "20": "Gabriel Bortoleto"
-            },
-            "sprintRace": {
-                "1": "Lewis Hamilton",
-                "2": "Oscar Piastri",
-                "3": "Max Verstappen",
-                "4": "George Russell",
-                "5": "Charles Leclerc",
-                "6": "Yuki Tsunoda",
-                "7": "Kimi Antonelli",
-                "8": "Lando Norris",
-                "9": "Lance Stroll",
-                "10": "Fernando Alonso",
-                "11": "Alex Albon",
-                "12": "Pierre Gasly",
-                "13": "Isack Hadjar",
-                "14": "Liam Lawson",
-                "15": "Oliver Bearman",
-                "16": "Esteban Ocon",
-                "17": "Carlos Sainz",
-                "18": "Gabriel Bortoleto",
-                "19": "Nico Hulkenberg",
-                "20": "Jack Doohan"
-            },
-            "quali": {
-                "1": "Oscar Piastri",
-                "2": "George Russell",
-                "3": "Lando Norris",
-                "4": "Max Verstappen",
-                "5": "Lewis Hamilton",
-                "6": "Charles Leclerc",
-                "7": "Yuki Tsunoda",
-                "8": "Alex Albon",
-                "9": "Pierre Gasly",
-                "10": "Carlos Sainz",
-                "11": "Esteban Ocon",
-                "12": "Kimi Antonelli",
-                "13": "Oliver Bearman",
-                "14": "Liam Lawson",
-                "15": "Lance Stroll",
-                "16": "Fernando Alonso",
-                "17": "Isack Hadjar",
-                "18": "Jack Doohan",
-                "19": "Nico Hulkenberg",
-                "20": "Gabriel Bortoleto"
-            },
-            "race": {
-                "1": "Oscar Piastri",
-                "2": "Lando Norris",
-                "3": "George Russell",
-                "4": "Max Verstappen",
-                "5": "Esteban Ocon",
-                "6": "Kimi Antonelli",
-                "7": "Alex Albon",
-                "8": "Oliver Bearman",
-                "9": "Lance Stroll",
-                "10": "Carlos Sainz",
-                "11": "Isack Hadjar",
-                "12": "Liam Lawson",
-                "13": "Jack Doohan",
-                "14": "Gabriel Bortoleto",
-                "15": "Nico Hulkenberg",
-                "16": "Yuki Tsunoda",
-                "DNF": ["Fernando Alonso"],
-                "DQ": ["Charles Leclerc", "Lewis Hamilton", "Pierre Gasly"]
-            }
+        "description": {
+            "country": "Australia",
+            "location": "Melbourne, Victoria",
+            "opened": 1996,
+            "usedSince": 1996,
+            "length": "5.279 km",
+            "direction": "clockwise",
+            "lapRecord": "1:20.235 (Charles Leclerc, Ferrari, 2022)"
         },
-        {
-            "round": 3,
-            "name": "Japan",
-            "start": "2025-04-04",
-            "end": "2025-04-06",
-            "location": "Suzuka",
-            "description": {
-                "country": "Japan",
-                "location": "Mie Prefecture",
-                "opened": 1962,
-                "usedSince": 1987,
-                "length": "5.807 km",
-                "direction": "clockwise, figure-eight",
-                "lapRecord": "1:27.064 (Sebastian Vettel, Ferrari, 2019)"
-            },
-            "sprint": false,
-            "sessions": {
-                "practice1": "2025-04-04T02:30:00Z",
-                "practice2": "2025-04-04T06:00:00Z",
-                "practice3": "2025-04-05T02:30:00Z",
-                "quali": "2025-04-05T06:00:00Z",
-                "race": "2025-04-06T05:00:00Z"
-            }
+        "sprint": false,
+        "quali": {
+            "1": "Lando Norris",
+            "2": "Oscar Piastri",
+            "3": "Max Verstappen",
+            "4": "George Russell",
+            "5": "Yuki Tsunoda",
+            "6": "Alex Albon",
+            "7": "Charles Leclerc",
+            "8": "Lewis Hamilton",
+            "9": "Pierre Gasly",
+            "10": "Carlos Sainz",
+            "11": "Esteban Ocon",
+            "12": "Liam Lawson",
+            "13": "Oliver Bearman",
+            "14": "Kimi Antonelli",
+            "15": "Lance Stroll",
+            "16": "Fernando Alonso",
+            "17": "Isack Hadjar",
+            "18": "Jack Doohan",
+            "19": "Nico Hulkenberg",
+            "20": "Gabriel Bortoleto"
         },
-        {
-            "round": 4,
-            "name": "Bahrain",
-            "start": "2025-04-11",
-            "end": "2025-04-13",
-            "location": "Sakhir",
-            "description": {
-                "country": "Bahrain",
-                "location": "Sakhir",
-                "opened": 2004,
-                "usedSince": 2004,
-                "length": "5.412 km",
-                "direction": "clockwise",
-                "lapRecord": "1:31.447 (Pedro de la Rosa, McLaren, 2005)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 5,
-            "name": "Saudi Arabia",
-            "start": "2025-04-18",
-            "end": "2025-04-20",
-            "location": "Jeddah",
-            "description": {
-                "country": "Saudi Arabia",
-                "location": "Jeddah",
-                "opened": 2021,
-                "usedSince": 2021,
-                "length": "6.174 km",
-                "direction": "counterclockwise",
-                "lapRecord": "1:30.734 (Lewis Hamilton, Mercedes, 2021)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 6,
-            "name": "Miami",
-            "start": "2025-05-02",
-            "end": "2025-05-04",
-            "location": "Miami",
-            "description": {
-                "country": "United States",
-                "location": "Miami, Florida",
-                "opened": 2022,
-                "usedSince": 2022,
-                "length": "5.412 km",
-                "direction": "counterclockwise",
-                "lapRecord": "1:29.708 (Max Verstappen, Red Bull, 2023)"
-            },
-            "sprint": true
-        },
-        {
-            "round": 7,
-            "name": "Emilia-Romagna",
-            "start": "2025-05-16",
-            "end": "2025-05-18",
-            "location": "Imola",
-            "description": {
-                "country": "Italy",
-                "location": "Imola, Emilia-Romagna",
-                "opened": 1953,
-                "usedSince": 1980,
-                "length": "4.909 km",
-                "direction": "counterclockwise",
-                "lapRecord": "1:15.484 (Lewis Hamilton, Mercedes, 2020)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 8,
-            "name": "Monaco",
-            "start": "2025-05-23",
-            "end": "2025-05-25",
-            "location": "Monaco",
-            "description": {
-                "country": "Monaco",
-                "location": "Monte Carlo",
-                "opened": 1929,
-                "usedSince": 1950,
-                "length": "3.337 km",
-                "direction": "clockwise",
-                "lapRecord": "1:12.909 (Lewis Hamilton, Mercedes, 2019)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 9,
-            "name": "Spain",
-            "start": "2025-05-30",
-            "end": "2025-06-01",
-            "location": "Barcelona",
-            "description": {
-                "country": "Spain",
-                "location": "Montmeló, Catalonia",
-                "opened": 1991,
-                "usedSince": 1991,
-                "length": "4.675 km",
-                "direction": "clockwise",
-                "lapRecord": "1:16.330 (Max Verstappen, Red Bull, 2023)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 10,
-            "name": "Canada",
-            "start": "2025-06-13",
-            "end": "2025-06-15",
-            "location": "Montreal",
-            "description": {
-                "country": "Canada",
-                "location": "Montreal, Quebec",
-                "opened": 1978,
-                "usedSince": 1978,
-                "length": "4.361 km",
-                "direction": "clockwise",
-                "lapRecord": "1:13.078 (Valtteri Bottas, Mercedes, 2019)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 11,
-            "name": "Austria",
-            "start": "2025-06-27",
-            "end": "2025-06-29",
-            "location": "Spielberg",
-            "description": {
-                "country": "Austria",
-                "location": "Spielberg, Styria",
-                "opened": 1969,
-                "usedSince": 1970,
-                "length": "4.318 km",
-                "direction": "clockwise",
-                "lapRecord": "1:05.619 (Carlos Sainz, Ferrari, 2020)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 12,
-            "name": "United Kingdom",
-            "start": "2025-07-04",
-            "end": "2025-07-06",
-            "location": "Silverstone",
-            "description": {
-                "country": "United Kingdom",
-                "location": "Northamptonshire",
-                "opened": 1948,
-                "usedSince": 1950,
-                "length": "5.891 km",
-                "direction": "clockwise",
-                "lapRecord": "1:27.097 (Max Verstappen, Red Bull, 2020)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 13,
-            "name": "Belgium",
-            "start": "2025-07-25",
-            "end": "2025-07-27",
-            "location": "Spa-Francorchamps",
-            "description": {
-                "country": "Belgium",
-                "location": "Stavelot, Wallonia",
-                "opened": 1921,
-                "usedSince": 1950,
-                "length": "7.004 km",
-                "direction": "clockwise",
-                "lapRecord": "1:46.286 (Lewis Hamilton, Mercedes, 2020)"
-            },
-            "sprint": true
-        },
-        {
-            "round": 14,
-            "name": "Hungary",
-            "start": "2025-08-01",
-            "end": "2025-08-03",
-            "location": "Hungaroring",
-            "description": {
-                "country": "Hungary",
-                "location": "Mogyoród, near Budapest",
-                "opened": 1986,
-                "usedSince": 1986,
-                "length": "4.381 km",
-                "direction": "clockwise",
-                "lapRecord": "1:16.627 (Lewis Hamilton, Mercedes, 2020)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 15,
-            "name": "Netherlands",
-            "start": "2025-08-29",
-            "end": "2025-08-31",
-            "location": "Zandvoort",
-            "description": {
-                "country": "Netherlands",
-                "location": "Zandvoort, North Holland",
-                "opened": 1948,
-                "usedSince": 2021,
-                "length": "4.259 km",
-                "direction": "clockwise",
-                "lapRecord": "1:11.097 (Lewis Hamilton, Mercedes, 2021)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 16,
-            "name": "Italy",
-            "start": "2025-09-05",
-            "end": "2025-09-07",
-            "location": "Monza",
-            "description": {
-                "country": "Italy",
-                "location": "Monza, Lombardy",
-                "opened": 1922,
-                "usedSince": 1950,
-                "length": "5.793 km",
-                "direction": "clockwise",
-                "lapRecord": "1:21.046 (Rubens Barrichello, Ferrari, 2004)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 17,
-            "name": "Azerbaijan",
-            "start": "2025-09-19",
-            "end": "2025-09-21",
-            "location": "Baku",
-            "description": {
-                "country": "Azerbaijan",
-                "location": "Baku",
-                "opened": 2016,
-                "usedSince": 2017,
-                "length": "6.003 km",
-                "direction": "counterclockwise",
-                "lapRecord": "1:43.009 (Charles Leclerc, Ferrari, 2019)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 18,
-            "name": "Singapore",
-            "start": "2025-10-03",
-            "end": "2025-10-05",
-            "location": "Singapore",
-            "description": {
-                "country": "Singapore",
-                "location": "Marina Bay",
-                "opened": 2008,
-                "usedSince": 2008,
-                "length": "5.063 km",
-                "direction": "counterclockwise",
-                "lapRecord": "1:41.905 (Kevin Magnussen, Haas, 2018)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 19,
-            "name": "United States",
-            "start": "2025-10-17",
-            "end": "2025-10-19",
-            "location": "Austin",
-            "description": {
-                "country": "United States",
-                "location": "Austin, Texas",
-                "opened": 2012,
-                "usedSince": 2012,
-                "length": "5.513 km",
-                "direction": "counterclockwise",
-                "lapRecord": "1:36.169 (Charles Leclerc, Ferrari, 2019)"
-            },
-            "sprint": true
-        },
-        {
-            "round": 20,
-            "name": "Mexico",
-            "start": "2025-10-24",
-            "end": "2025-10-26",
-            "location": "Mexico City",
-            "description": {
-                "country": "Mexico",
-                "location": "Mexico City",
-                "opened": 1962,
-                "usedSince": 2015,
-                "length": "4.304 km",
-                "direction": "clockwise",
-                "lapRecord": "1:17.774 (Valtteri Bottas, Mercedes, 2021)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 21,
-            "name": "Brazil",
-            "start": "2025-11-07",
-            "end": "2025-11-09",
-            "location": "São Paulo",
-            "description": {
-                "country": "Brazil",
-                "location": "São Paulo",
-                "opened": 1940,
-                "usedSince": 1990,
-                "length": "4.309 km",
-                "direction": "counterclockwise",
-                "lapRecord": "1:10.540 (Valtteri Bottas, Mercedes, 2018)"
-            },
-            "sprint": true
-        },
-        {
-            "round": 22,
-            "name": "Las Vegas",
-            "start": "2025-11-20",
-            "end": "2025-11-22",
-            "location": "Las Vegas",
-            "description": {
-                "country": "United States",
-                "location": "Las Vegas, Nevada",
-                "opened": 2023,
-                "usedSince": 2023,
-                "length": "6.201 km",
-                "direction": "counterclockwise",
-                "lapRecord": "1:35.490 (George Russell, Mercedes, 2023)"
-            },
-            "sprint": false
-        },
-        {
-            "round": 23,
-            "name": "Qatar",
-            "start": "2025-11-28",
-            "end": "2025-11-30",
-            "location": "Losail",
-            "description": {
-                "country": "Qatar",
-                "location": "Losail",
-                "opened": 2004,
-                "usedSince": 2021,
-                "length": "5.380 km",
-                "direction": "clockwise",
-                "lapRecord": "1:24.319 (Max Verstappen, Red Bull, 2021)"
-            },
-            "sprint": true
-        },
-        {
-            "round": 24,
-            "name": "Abu Dhabi",
-            "start": "2025-12-05",
-            "end": "2025-12-07",
-            "location": "Yas Marina",
-            "description": {
-                "country": "United Arab Emirates",
-                "location": "Abu Dhabi",
-                "opened": 2009,
-                "usedSince": 2009,
-                "length": "5.281 km",
-                "direction": "counterclockwise",
-                "lapRecord": "1:26.103 (Max Verstappen, Red Bull, 2021)"
-            },
-            "sprint": false
+        "race": {
+            "1": "Lando Norris",
+            "2": "Max Verstappen",
+            "3": "George Russell",
+            "4": "Kimi Antonelli",
+            "5": "Alex Albon",
+            "6": "Lance Stroll",
+            "7": "Nico Hulkenberg",
+            "8": "Charles Leclerc",
+            "9": "Oscar Piastri",
+            "10": "Lewis Hamilton",
+            "11": "Pierre Gasly",
+            "12": "Yuki Tsunoda",
+            "13": "Esteban Ocon",
+            "14": "Oliver Bearman",
+            "DNF": ["Liam Lawson", "Gabriel Bortoleto", "Fernando Alonso", "Carlos Sainz", "Jack Doohan", "Isack Hadjar"]
         }
-    ],
+    },
+    {
+        "round": 2,
+        "name": "China",
+        "start": "2025-03-21",
+        "end": "2025-03-23",
+        "location": "Shanghai",
+        "coordinates": {
+            "lat": 31.3389,
+            "lon": 121.2204
+        },
+        "description": {
+            "country": "China",
+            "location": "Shanghai",
+            "opened": 2004,
+            "usedSince": 2004,
+            "length": "5.451 km",
+            "direction": "clockwise",
+            "lapRecord": "1:32.238 (Michael Schumacher, Ferrari, 2004)"
+        },
+        "sprint": true,
+        "sprintQuali": {
+            "1": "Lewis Hamilton",
+            "2": "Max Verstappen",
+            "3": "Oscar Piastri",
+            "4": "George Russell",
+            "5": "Charles Leclerc",
+            "6": "Lando Norris",
+            "7": "Yuki Tsunoda",
+            "8": "Alex Albon",
+            "9": "Pierre Gasly",
+            "10": "Carlos Sainz",
+            "11": "Esteban Ocon",
+            "12": "Kimi Antonelli",
+            "13": "Oliver Bearman",
+            "14": "Liam Lawson",
+            "15": "Lance Stroll",
+            "16": "Fernando Alonso",
+            "17": "Isack Hadjar",
+            "18": "Jack Doohan",
+            "19": "Nico Hulkenberg",
+            "20": "Gabriel Bortoleto"
+        },
+        "sprintRace": {
+            "1": "Lewis Hamilton",
+            "2": "Oscar Piastri",
+            "3": "Max Verstappen",
+            "4": "George Russell",
+            "5": "Charles Leclerc",
+            "6": "Yuki Tsunoda",
+            "7": "Kimi Antonelli",
+            "8": "Lando Norris",
+            "9": "Lance Stroll",
+            "10": "Fernando Alonso",
+            "11": "Alex Albon",
+            "12": "Pierre Gasly",
+            "13": "Isack Hadjar",
+            "14": "Liam Lawson",
+            "15": "Oliver Bearman",
+            "16": "Esteban Ocon",
+            "17": "Carlos Sainz",
+            "18": "Gabriel Bortoleto",
+            "19": "Nico Hulkenberg",
+            "20": "Jack Doohan"
+        },
+        "quali": {
+            "1": "Oscar Piastri",
+            "2": "George Russell",
+            "3": "Lando Norris",
+            "4": "Max Verstappen",
+            "5": "Lewis Hamilton",
+            "6": "Charles Leclerc",
+            "7": "Yuki Tsunoda",
+            "8": "Alex Albon",
+            "9": "Pierre Gasly",
+            "10": "Carlos Sainz",
+            "11": "Esteban Ocon",
+            "12": "Kimi Antonelli",
+            "13": "Oliver Bearman",
+            "14": "Liam Lawson",
+            "15": "Lance Stroll",
+            "16": "Fernando Alonso",
+            "17": "Isack Hadjar",
+            "18": "Jack Doohan",
+            "19": "Nico Hulkenberg",
+            "20": "Gabriel Bortoleto"
+        },
+        "race": {
+            "1": "Oscar Piastri",
+            "2": "Lando Norris",
+            "3": "George Russell",
+            "4": "Max Verstappen",
+            "5": "Esteban Ocon",
+            "6": "Kimi Antonelli",
+            "7": "Alex Albon",
+            "8": "Oliver Bearman",
+            "9": "Lance Stroll",
+            "10": "Carlos Sainz",
+            "11": "Isack Hadjar",
+            "12": "Liam Lawson",
+            "13": "Jack Doohan",
+            "14": "Gabriel Bortoleto",
+            "15": "Nico Hulkenberg",
+            "16": "Yuki Tsunoda",
+            "DNF": ["Fernando Alonso"],
+            "DQ": ["Charles Leclerc", "Lewis Hamilton", "Pierre Gasly"]
+        }
+    },
+    {
+        "round": 3,
+        "name": "Japan",
+        "start": "2025-04-04",
+        "end": "2025-04-06",
+        "location": "Suzuka",
+        "coordinates": {
+            "lat": 34.8431,
+            "lon": 136.5411
+        },
+        "description": {
+            "country": "Japan",
+            "location": "Mie Prefecture",
+            "opened": 1962,
+            "usedSince": 1987,
+            "length": "5.807 km",
+            "direction": "clockwise, figure-eight",
+            "lapRecord": "1:27.064 (Sebastian Vettel, Ferrari, 2019)"
+        },
+        "sprint": false,
+        "sessions": {
+            "practice1": "2025-04-04T02:30:00Z",
+            "practice2": "2025-04-04T06:00:00Z",
+            "practice3": "2025-04-05T02:30:00Z",
+            "quali": "2025-04-05T06:00:00Z",
+            "race": "2025-04-06T05:00:00Z"
+        }
+    },
+    {
+        "round": 4,
+        "name": "Bahrain",
+        "start": "2025-04-11",
+        "end": "2025-04-13",
+        "location": "Sakhir",
+        "coordinates": {
+            "lat": 26.0325,
+            "lon": 50.5106
+        },
+        "description": {
+            "country": "Bahrain",
+            "location": "Sakhir",
+            "opened": 2004,
+            "usedSince": 2004,
+            "length": "5.412 km",
+            "direction": "clockwise",
+            "lapRecord": "1:31.447 (Pedro de la Rosa, McLaren, 2005)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 5,
+        "name": "Saudi Arabia",
+        "start": "2025-04-18",
+        "end": "2025-04-20",
+        "location": "Jeddah",
+        "coordinates": {
+            "lat": 21.6319,
+            "lon": 39.1044
+        },
+        "description": {
+            "country": "Saudi Arabia",
+            "location": "Jeddah",
+            "opened": 2021,
+            "usedSince": 2021,
+            "length": "6.174 km",
+            "direction": "counterclockwise",
+            "lapRecord": "1:30.734 (Lewis Hamilton, Mercedes, 2021)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 6,
+        "name": "Miami",
+        "start": "2025-05-02",
+        "end": "2025-05-04",
+        "location": "Miami",
+        "coordinates": {
+            "lat": 25.9581,
+            "lon": -80.2389
+        },
+        "description": {
+            "country": "United States",
+            "location": "Miami, Florida",
+            "opened": 2022,
+            "usedSince": 2022,
+            "length": "5.412 km",
+            "direction": "counterclockwise",
+            "lapRecord": "1:29.708 (Max Verstappen, Red Bull, 2023)"
+        },
+        "sprint": true
+    },
+    {
+        "round": 7,
+        "name": "Emilia-Romagna",
+        "start": "2025-05-16",
+        "end": "2025-05-18",
+        "location": "Imola",
+        "coordinates": {
+            "lat": 44.3439,
+            "lon": 11.7167
+        },
+        "description": {
+            "country": "Italy",
+            "location": "Imola, Emilia-Romagna",
+            "opened": 1953,
+            "usedSince": 1980,
+            "length": "4.909 km",
+            "direction": "counterclockwise",
+            "lapRecord": "1:15.484 (Lewis Hamilton, Mercedes, 2020)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 8,
+        "name": "Monaco",
+        "start": "2025-05-23",
+        "end": "2025-05-25",
+        "location": "Monaco",
+        "coordinates": {
+            "lat": 43.7347,
+            "lon": 7.4206
+        },
+        "description": {
+            "country": "Monaco",
+            "location": "Monte Carlo",
+            "opened": 1929,
+            "usedSince": 1950,
+            "length": "3.337 km",
+            "direction": "clockwise",
+            "lapRecord": "1:12.909 (Lewis Hamilton, Mercedes, 2019)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 9,
+        "name": "Spain",
+        "start": "2025-05-30",
+        "end": "2025-06-01",
+        "location": "Barcelona",
+        "coordinates": {
+            "lat": 41.5701,
+            "lon": 2.2611
+        },
+        "description": {
+            "country": "Spain",
+            "location": "Montmeló, Catalonia",
+            "opened": 1991,
+            "usedSince": 1991,
+            "length": "4.675 km",
+            "direction": "clockwise",
+            "lapRecord": "1:16.330 (Max Verstappen, Red Bull, 2023)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 10,
+        "name": "Canada",
+        "start": "2025-06-13",
+        "end": "2025-06-15",
+        "location": "Montreal",
+        "coordinates": {
+            "lat": 45.5000,
+            "lon": -73.5228
+        },
+        "description": {
+            "country": "Canada",
+            "location": "Montreal, Quebec",
+            "opened": 1978,
+            "usedSince": 1978,
+            "length": "4.361 km",
+            "direction": "clockwise",
+            "lapRecord": "1:13.078 (Valtteri Bottas, Mercedes, 2019)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 11,
+        "name": "Austria",
+        "start": "2025-06-27",
+        "end": "2025-06-29",
+        "location": "Spielberg",
+        "coordinates": {
+            "lat": 47.2197,
+            "lon": 14.7646
+        },
+        "description": {
+            "country": "Austria",
+            "location": "Spielberg, Styria",
+            "opened": 1969,
+            "usedSince": 1970,
+            "length": "4.318 km",
+            "direction": "clockwise",
+            "lapRecord": "1:05.619 (Carlos Sainz, Ferrari, 2020)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 12,
+        "name": "United Kingdom",
+        "start": "2025-07-04",
+        "end": "2025-07-06",
+        "location": "Silverstone",
+        "coordinates": {
+            "lat": 52.0786,
+            "lon": -1.0169
+        },
+        "description": {
+            "country": "United Kingdom",
+            "location": "Northamptonshire",
+            "opened": 1948,
+            "usedSince": 1950,
+            "length": "5.891 km",
+            "direction": "clockwise",
+            "lapRecord": "1:27.097 (Max Verstappen, Red Bull, 2020)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 13,
+        "name": "Belgium",
+        "start": "2025-07-25",
+        "end": "2025-07-27",
+        "location": "Spa-Francorchamps",
+        "coordinates": {
+            "lat": 50.4372,
+            "lon": 5.9714
+        },
+        "description": {
+            "country": "Belgium",
+            "location": "Stavelot, Wallonia",
+            "opened": 1921,
+            "usedSince": 1950,
+            "length": "7.004 km",
+            "direction": "clockwise",
+            "lapRecord": "1:46.286 (Lewis Hamilton, Mercedes, 2020)"
+        },
+        "sprint": true
+    },
+    {
+        "round": 14,
+        "name": "Hungary",
+        "start": "2025-08-01",
+        "end": "2025-08-03",
+        "location": "Hungaroring",
+        "coordinates": {
+            "lat": 47.5829,
+            "lon": 19.2486
+        },
+        "description": {
+            "country": "Hungary",
+            "location": "Mogyoród, near Budapest",
+            "opened": 1986,
+            "usedSince": 1986,
+            "length": "4.381 km",
+            "direction": "clockwise",
+            "lapRecord": "1:16.627 (Lewis Hamilton, Mercedes, 2020)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 15,
+        "name": "Netherlands",
+        "start": "2025-08-29",
+        "end": "2025-08-31",
+        "location": "Zandvoort",
+        "coordinates": {
+            "lat": 52.3888,
+            "lon": 4.5409
+        },
+        "description": {
+            "country": "Netherlands",
+            "location": "Zandvoort, North Holland",
+            "opened": 1948,
+            "usedSince": 2021,
+            "length": "4.259 km",
+            "direction": "clockwise",
+            "lapRecord": "1:11.097 (Lewis Hamilton, Mercedes, 2021)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 16,
+        "name": "Italy",
+        "start": "2025-09-05",
+        "end": "2025-09-07",
+        "location": "Monza",
+        "coordinates": {
+            "lat": 45.6156,
+            "lon": 9.2811
+        },
+        "description": {
+            "country": "Italy",
+            "location": "Monza, Lombardy",
+            "opened": 1922,
+            "usedSince": 1950,
+            "length": "5.793 km",
+            "direction": "clockwise",
+            "lapRecord": "1:21.046 (Rubens Barrichello, Ferrari, 2004)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 17,
+        "name": "Azerbaijan",
+        "start": "2025-09-19",
+        "end": "2025-09-21",
+        "location": "Baku",
+        "coordinates": {
+            "lat": 40.3725,
+            "lon": 49.8533
+        },
+        "description": {
+            "country": "Azerbaijan",
+            "location": "Baku",
+            "opened": 2016,
+            "usedSince": 2017,
+            "length": "6.003 km",
+            "direction": "counterclockwise",
+            "lapRecord": "1:43.009 (Charles Leclerc, Ferrari, 2019)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 18,
+        "name": "Singapore",
+        "start": "2025-10-03",
+        "end": "2025-10-05",
+        "location": "Singapore",
+        "coordinates": {
+            "lat": 1.2914,
+            "lon": 103.8640
+        },
+        "description": {
+            "country": "Singapore",
+            "location": "Marina Bay",
+            "opened": 2008,
+            "usedSince": 2008,
+            "length": "5.063 km",
+            "direction": "counterclockwise",
+            "lapRecord": "1:41.905 (Kevin Magnussen, Haas, 2018)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 19,
+        "name": "United States",
+        "start": "2025-10-17",
+        "end": "2025-10-19",
+        "location": "Austin",
+        "coordinates": {
+            "lat": 30.1328,
+            "lon": -97.6411
+        },
+        "description": {
+            "country": "United States",
+            "location": "Austin, Texas",
+            "opened": 2012,
+            "usedSince": 2012,
+            "length": "5.513 km",
+            "direction": "counterclockwise",
+            "lapRecord": "1:36.169 (Charles Leclerc, Ferrari, 2019)"
+        },
+        "sprint": true
+    },
+    {
+        "round": 20,
+        "name": "Mexico",
+        "start": "2025-10-24",
+        "end": "2025-10-26",
+        "location": "Mexico City",
+        "coordinates": {
+            "lat": 19.4042,
+            "lon": -99.0907
+        },
+        "description": {
+            "country": "Mexico",
+            "location": "Mexico City",
+            "opened": 1962,
+            "usedSince": 2015,
+            "length": "4.304 km",
+            "direction": "clockwise",
+            "lapRecord": "1:17.774 (Valtteri Bottas, Mercedes, 2021)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 21,
+        "name": "Brazil",
+        "start": "2025-11-07",
+        "end": "2025-11-09",
+        "location": "São Paulo",
+        "coordinates": {
+            "lat": -23.7036,
+            "lon": -46.6997
+        },
+        "description": {
+            "country": "Brazil",
+            "location": "São Paulo",
+            "opened": 1940,
+            "usedSince": 1990,
+            "length": "4.309 km",
+            "direction": "counterclockwise",
+            "lapRecord": "1:10.540 (Valtteri Bottas, Mercedes, 2018)"
+        },
+        "sprint": true
+    },
+    {
+        "round": 22,
+        "name": "Las Vegas",
+        "start": "2025-11-20",
+        "end": "2025-11-22",
+        "location": "Las Vegas",
+        "coordinates": {
+            "lat": 36.1162,
+            "lon": -115.1745
+        },
+        "description": {
+            "country": "United States",
+            "location": "Las Vegas, Nevada",
+            "opened": 2023,
+            "usedSince": 2023,
+            "length": "6.201 km",
+            "direction": "counterclockwise",
+            "lapRecord": "1:35.490 (George Russell, Mercedes, 2023)"
+        },
+        "sprint": false
+    },
+    {
+        "round": 23,
+        "name": "Qatar",
+        "start": "2025-11-28",
+        "end": "2025-11-30",
+        "location": "Losail",
+        "coordinates": {
+            "lat": 25.4900,
+            "lon": 51.4542
+        },
+        "description": {
+            "country": "Qatar",
+            "location": "Losail",
+            "opened": 2004,
+            "usedSince": 2021,
+            "length": "5.380 km",
+            "direction": "clockwise",
+            "lapRecord": "1:24.319 (Max Verstappen, Red Bull, 2021)"
+        },
+        "sprint": true
+    },
+    {
+        "round": 24,
+        "name": "Abu Dhabi",
+        "start": "2025-12-05",
+        "end": "2025-12-07",
+        "location": "Yas Marina",
+        "coordinates": {
+            "lat": 24.4672,
+            "lon": 54.6031
+        },
+        "description": {
+            "country": "United Arab Emirates",
+            "location": "Abu Dhabi",
+            "opened": 2009,
+            "usedSince": 2009,
+            "length": "5.281 km",
+            "direction": "counterclockwise",
+            "lapRecord": "1:26.103 (Max Verstappen, Red Bull, 2021)"
+        },
+        "sprint": false
+    }
+],
     "driversStandings": [
     {
         "position": 1,
