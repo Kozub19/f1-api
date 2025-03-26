@@ -917,55 +917,135 @@
         }
     ],
     "constructorsStandings": [
-        {
-            "position": 1,
-            "team": "McLaren",
-            "points": 84
-        },
-        {
-            "position": 2,
-            "team": "Mercedes",
-            "points": 45
-        },
-        {
-            "position": 3,
-            "team": "Red Bull Racing",
-            "points": 25
-        },
-        {
-            "position": 4,
-            "team": "Williams",
-            "points": 10
-        },
-        {
-            "position": 5,
-            "team": "Aston Martin",
-            "points": 8
-        },
-        {
-            "position": 6,
-            "team": "Haas",
-            "points": 7
-        },
-        {
-            "position": 7,
-            "team": "Ferrari",
-            "points": 6
-        },
-        {
-            "position": 8,
-            "team": "Alpine",
-            "points": 2
-        },
-        {
-            "position": 9,
-            "team": "RB",
-            "points": 0
-        },
-        {
-            "position": 10,
-            "team": "Sauber",
-            "points": 0
-        }
-    ]
+    {
+        "position": 1,
+        "team": "McLaren",
+        "points": 84,
+        "seasons": 62,
+        "racesCompleted": 950,
+        "polePositions": 156,
+        "podiums": 493,
+        "raceWins": 183,
+        "wccWins": 8,
+        "wdcWins": 12,
+        "bio": "McLaren was founded in 1963 by Bruce McLaren and has since become one of the most successful teams in Formula 1 history. Based in Woking, Surrey, McLaren is known for its engineering excellence and has produced champions like Ayrton Senna and Lewis Hamilton."
+    },
+    {
+        "position": 2,
+        "team": "Mercedes",
+        "points": 45,
+        "seasons": 15,
+        "racesCompleted": 300,
+        "polePositions": 137,
+        "podiums": 287,
+        "raceWins": 125,
+        "wccWins": 8,
+        "wdcWins": 9,
+        "bio": "Mercedes returned to Formula 1 as a constructor in 2010 and quickly became a dominant force, especially during the hybrid era. Based in Brackley, the team has been home to legends like Lewis Hamilton and continues to push the boundaries of technology."
+    },
+    {
+        "position": 3,
+        "team": "Red Bull Racing",
+        "points": 25,
+        "seasons": 20,
+        "racesCompleted": 400,
+        "polePositions": 80,
+        "podiums": 260,
+        "raceWins": 113,
+        "wccWins": 6,
+        "wdcWins": 7,
+        "bio": "Red Bull Racing, founded in 2005, is based in Milton Keynes and has been a powerhouse in F1, especially with drivers like Sebastian Vettel and Max Verstappen. Known for its aggressive strategies and innovative designs."
+    },
+    {
+        "position": 4,
+        "team": "Williams",
+        "points": 10,
+        "seasons": 47,
+        "racesCompleted": 800,
+        "polePositions": 128,
+        "podiums": 313,
+        "raceWins": 114,
+        "wccWins": 9,
+        "wdcWins": 7,
+        "bio": "Williams, founded in 1977 by Frank Williams, is one of the most storied teams in F1. Based in Grove, the team dominated in the 1980s and 1990s but has struggled in recent years, aiming for a comeback."
+    },
+    {
+        "position": 5,
+        "team": "Aston Martin",
+        "points": 8,
+        "seasons": 5,
+        "racesCompleted": 100,
+        "polePositions": 0,
+        "podiums": 9,
+        "raceWins": 0,
+        "wccWins": 0,
+        "wdcWins": 0,
+        "bio": "Aston Martin returned to F1 in 2021, with its base in Silverstone. Backed by Lawrence Stroll, the team aims to become a championship contender with drivers like Fernando Alonso."
+    },
+    {
+        "position": 6,
+        "team": "Haas",
+        "points": 7,
+        "seasons": 9,
+        "racesCompleted": 180,
+        "polePositions": 0,
+        "podiums": 0,
+        "raceWins": 0,
+        "wccWins": 0,
+        "wdcWins": 0,
+        "bio": "Haas, an American team founded in 2016, is based in Kannapolis, North Carolina, with operations in Banbury, UK. Known for its partnership with Ferrari, Haas focuses on efficiency in the midfield."
+    },
+    {
+        "position": 7,
+        "team": "Ferrari",
+        "points": 6,
+        "seasons": 75,
+        "racesCompleted": 1080,
+        "polePositions": 249,
+        "podiums": 812,
+        "raceWins": 244,
+        "wccWins": 16,
+        "wdcWins": 15,
+        "bio": "Ferrari, founded in 1950, is the most iconic team in F1 history. Based in Maranello, Italy, Ferrari has a passionate fanbase, the Tifosi, and a legacy of champions like Michael Schumacher."
+    },
+    {
+        "position": 8,
+        "team": "Alpine",
+        "points": 2,
+        "seasons": 4,
+        "racesCompleted": 80,
+        "polePositions": 0,
+        "podiums": 4,
+        "raceWins": 1,
+        "wccWins": 0,
+        "wdcWins": 0,
+        "bio": "Alpine, the rebranded Renault team, joined F1 in 2021. Based in Enstone, UK, and Viry-Châtillon, France, Alpine aims to bring French flair to the grid with drivers like Esteban Ocon."
+    },
+    {
+        "position": 9,
+        "team": "RB",
+        "points": 0,
+        "seasons": 5,
+        "racesCompleted": 100,
+        "polePositions": 0,
+        "podiums": 2,
+        "raceWins": 1,
+        "wccWins": 0,
+        "wdcWins": 0,
+        "bio": "RB, formerly AlphaTauri, is Red Bull's sister team, based in Faenza, Italy. Since 2020, it has served as a development team for Red Bull's young drivers like Yuki Tsunoda."
+    },
+    {
+        "position": 10,
+        "team": "Sauber",
+        "points": 0,
+        "seasons": 30,
+        "racesCompleted": 500,
+        "polePositions": 0,
+        "podiums": 27,
+        "raceWins": 1,
+        "wccWins": 0,
+        "wdcWins": 0,
+        "bio": "Sauber, based in Hinwil, Switzerland, has been in F1 since 1993. Set to become Audi in 2026, the team has a history of nurturing talent like Kimi Räikkönen."
+    }
+]
 }
