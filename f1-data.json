@@ -869,7 +869,7 @@
     {
         "position": 13,
         "driver": "Yuki Tsunoda",
-        "team": "RB",
+        "team": "Red Bull Racing",
         "points": 3,
         "nationality": "Japanese",
         "driverNumber": 22,
@@ -1126,7 +1126,7 @@
     },
     {
         "position": 9,
-        "team": "Red Bull Racing",
+        "team": "RB",
         "points": 3,
         "seasons": 1,
         "racesCompleted": 2,
