@@ -945,7 +945,7 @@
     {
         "position": 17,
         "driver": "Liam Lawson",
-        "team": "Red Bull Racing",
+        "team": "RB",
         "points": 0,
         "nationality": "New Zealander",
         "driverNumber": 30,
@@ -1126,7 +1126,7 @@
     },
     {
         "position": 9,
-        "team": "RB",
+        "team": "Red Bull Racing",
         "points": 3,
         "seasons": 1,
         "racesCompleted": 2,
