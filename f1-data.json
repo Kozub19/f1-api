@@ -214,7 +214,14 @@
             "direction": "clockwise",
             "lapRecord": "1:31.447 (Pedro de la Rosa, McLaren, 2005)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-04-11T11:30:00Z",
+        "practice2": "2025-04-11T15:00:00Z",
+        "practice3": "2025-04-12T12:30:00Z",
+        "quali": "2025-04-12T16:00:00Z",
+        "race": "2025-04-13T15:00:00Z"
+}
     },
     {
         "round": 5,
@@ -235,7 +242,14 @@
             "direction": "counterclockwise",
             "lapRecord": "1:30.734 (Lewis Hamilton, Mercedes, 2021)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-04-18T12:30:00Z",
+        "practice2": "2025-04-18T16:00:00Z",
+        "practice3": "2025-04-19T12:30:00Z",
+        "quali": "2025-04-19T16:00:00Z",
+        "race": "2025-04-20T16:00:00Z"
+}
     },
     {
         "round": 6,
@@ -256,7 +270,14 @@
             "direction": "counterclockwise",
             "lapRecord": "1:29.708 (Max Verstappen, Red Bull, 2023)"
         },
-        "sprint": true
+        "sprint": true,
+        "sessions": {
+        "practice1": "2025-05-02T14:30:00Z",
+        "sprintQuali": "2025-05-02T18:30:00Z",
+        "sprint": "2025-05-03T14:00:00Z",
+        "quali": "2025-05-03T18:00:00Z",
+        "race": "2025-05-04T18:00:00Z"
+}
     },
     {
         "round": 7,
@@ -277,7 +298,14 @@
             "direction": "counterclockwise",
             "lapRecord": "1:15.484 (Lewis Hamilton, Mercedes, 2020)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-05-16T11:30:00Z",
+        "practice2": "2025-05-16T15:00:00Z",
+        "practice3": "2025-05-17T10:30:00Z",
+        "quali": "2025-05-17T14:00:00Z",
+        "race": "2025-05-18T13:00:00Z"
+}
     },
     {
         "round": 8,
@@ -298,7 +326,14 @@
             "direction": "clockwise",
             "lapRecord": "1:12.909 (Lewis Hamilton, Mercedes, 2019)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-05-23T11:30:00Z",
+        "practice2": "2025-05-23T15:00:00Z",
+        "practice3": "2025-05-24T10:30:00Z",
+        "quali": "2025-05-24T14:00:00Z",
+        "race": "2025-05-25T13:00:00Z"
+}
     },
     {
         "round": 9,
@@ -319,7 +354,14 @@
             "direction": "clockwise",
             "lapRecord": "1:16.330 (Max Verstappen, Red Bull, 2023)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-05-30T11:30:00Z",
+        "practice2": "2025-05-30T15:00:00Z",
+        "practice3": "2025-05-31T10:30:00Z",
+        "quali": "2025-05-31T14:00:00Z",
+        "race": "2025-06-01T13:00:00Z"
+}
     },
     {
         "round": 10,
@@ -340,7 +382,14 @@
             "direction": "clockwise",
             "lapRecord": "1:13.078 (Valtteri Bottas, Mercedes, 2019)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-06-13T23:30:00Z",
+        "practice2": "2025-06-14T03:00:00Z",
+        "practice3": "2025-06-14T22:30:00Z",
+        "quali": "2025-06-15T02:00:00Z",
+        "race": "2025-06-15T20:00:00Z"
+}
     },
     {
         "round": 11,
@@ -361,7 +410,14 @@
             "direction": "clockwise",
             "lapRecord": "1:05.619 (Carlos Sainz, Ferrari, 2020)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-06-27T11:30:00Z",
+        "practice2": "2025-06-27T15:00:00Z",
+        "practice3": "2025-06-28T10:30:00Z",
+        "quali": "2025-06-28T14:00:00Z",
+        "race": "2025-06-29T13:00:00Z"
+}
     },
     {
         "round": 12,
@@ -382,7 +438,14 @@
             "direction": "clockwise",
             "lapRecord": "1:27.097 (Max Verstappen, Red Bull, 2020)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-07-04T12:30:00Z",
+        "practice2": "2025-07-04T16:00:00Z",
+        "practice3": "2025-07-05T11:30:00Z",
+        "quali": "2025-07-05T15:00:00Z",
+        "race": "2025-07-06T15:00:00Z"
+}
     },
     {
         "round": 13,
@@ -403,7 +466,14 @@
             "direction": "clockwise",
             "lapRecord": "1:46.286 (Lewis Hamilton, Mercedes, 2020)"
         },
-        "sprint": true
+        "sprint": true,
+        "sessions": {
+        "practice1": "2025-07-25T10:30:00Z",
+        "sprintQuali": "2025-07-25T14:30:00Z",
+        "sprint": "2025-07-26T10:00:00Z",
+        "quali": "2025-07-26T14:00:00Z",
+        "race": "2025-07-27T13:00:00Z"
+}
     },
     {
         "round": 14,
@@ -424,7 +494,14 @@
             "direction": "clockwise",
             "lapRecord": "1:16.627 (Lewis Hamilton, Mercedes, 2020)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-08-01T11:30:00Z",
+        "practice2": "2025-08-01T15:00:00Z",
+        "practice3": "2025-08-02T10:30:00Z",
+        "quali": "2025-08-02T14:00:00Z",
+        "race": "2025-08-03T13:00:00Z"
+}
     },
     {
         "round": 15,
@@ -445,7 +522,14 @@
             "direction": "clockwise",
             "lapRecord": "1:11.097 (Lewis Hamilton, Mercedes, 2021)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-08-29T10:30:00Z",
+        "practice2": "2025-08-29T14:00:00Z",
+        "practice3": "2025-08-30T09:30:00Z",
+        "quali": "2025-08-30T13:00:00Z",
+        "race": "2025-08-31T13:00:00Z"
+}
     },
     {
         "round": 16,
@@ -466,7 +550,13 @@
             "direction": "clockwise",
             "lapRecord": "1:21.046 (Rubens Barrichello, Ferrari, 2004)"
         },
-        "sprint": false
+        "sprint": false,"sessions": {
+        "practice1": "2025-09-05T11:30:00Z",
+        "practice2": "2025-09-05T15:00:00Z",
+        "practice3": "2025-09-06T10:30:00Z",
+        "quali": "2025-09-06T14:00:00Z",
+        "race": "2025-09-07T13:00:00Z"
+}
     },
     {
         "round": 17,
@@ -487,7 +577,14 @@
             "direction": "counterclockwise",
             "lapRecord": "1:43.009 (Charles Leclerc, Ferrari, 2019)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-09-19T06:30:00Z",
+        "practice2": "2025-09-19T10:00:00Z",
+        "practice3": "2025-09-20T06:30:00Z",
+        "quali": "2025-09-20T10:00:00Z",
+        "race": "2025-09-21T09:00:00Z"
+}
     },
     {
         "round": 18,
@@ -508,7 +605,14 @@
             "direction": "counterclockwise",
             "lapRecord": "1:41.905 (Kevin Magnussen, Haas, 2018)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-10-03T03:30:00Z",
+        "practice2": "2025-10-03T07:00:00Z",
+        "practice3": "2025-10-04T03:30:00Z",
+        "quali": "2025-10-04T07:00:00Z",
+        "race": "2025-10-05T06:00:00Z"
+}
     },
     {
         "round": 19,
@@ -529,7 +633,14 @@
             "direction": "counterclockwise",
             "lapRecord": "1:36.169 (Charles Leclerc, Ferrari, 2019)"
         },
-        "sprint": true
+        "sprint": true,
+        "sessions": {
+        "practice1": "2025-10-17T23:30:00Z",
+        "sprintQuali": "2025-10-18T03:30:00Z",
+        "sprint": "2025-10-18T23:00:00Z",
+        "quali": "2025-10-19T03:00:00Z",
+        "race": "2025-10-19T23:00:00Z"
+}
     },
     {
         "round": 20,
@@ -550,7 +661,14 @@
             "direction": "clockwise",
             "lapRecord": "1:17.774 (Valtteri Bottas, Mercedes, 2021)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-10-24T01:30:00Z",
+        "practice2": "2025-10-25T05:00:00Z",
+        "practice3": "2025-10-25T23:30:00Z",
+        "quali": "2025-10-26T03:00:00Z",
+        "race": "2025-10-26T23:00:00Z"
+}
     },
     {
         "round": 21,
@@ -571,7 +689,14 @@
             "direction": "counterclockwise",
             "lapRecord": "1:10.540 (Valtteri Bottas, Mercedes, 2018)"
         },
-        "sprint": true
+        "sprint": true,
+        "sessions": {
+        "practice1": "2025-11-07T18:30:00Z",
+        "sprintQuali": "2025-11-07T22:30:00Z",
+        "sprint": "2025-11-08T18:00:00Z",
+        "quali": "2025-11-08T22:00:00Z",
+        "race": "2025-11-09T20:00:00Z"
+}
     },
     {
         "round": 22,
@@ -592,7 +717,14 @@
             "direction": "counterclockwise",
             "lapRecord": "1:35.490 (George Russell, Mercedes, 2023)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-11-21T09:30:00Z",
+        "practice2": "2025-11-21T13:00:00Z",
+        "practice3": "2025-11-22T09:30:00Z",
+        "quali": "2025-11-22T13:00:00Z",
+        "race": "2025-11-23T13:00:00Z"
+}
     },
     {
         "round": 23,
@@ -613,7 +745,14 @@
             "direction": "clockwise",
             "lapRecord": "1:24.319 (Max Verstappen, Red Bull, 2021)"
         },
-        "sprint": true
+        "sprint": true,
+        "sessions": {
+        "practice1": "2025-11-28T11:30:00Z",
+        "sprintQuali": "2025-11-28T15:30:00Z",
+        "sprint": "2025-11-29T12:00:00Z",
+        "quali": "2025-11-29T16:00:00Z",
+        "race": "2025-11-30T14:00:00Z"
+}
     },
     {
         "round": 24,
@@ -634,7 +773,14 @@
             "direction": "counterclockwise",
             "lapRecord": "1:26.103 (Max Verstappen, Red Bull, 2021)"
         },
-        "sprint": false
+        "sprint": false,
+        "sessions": {
+        "practice1": "2025-12-05T06:30:00Z",
+        "practice2": "2025-12-05T10:00:00Z",
+        "practice3": "2025-12-06T07:30:00Z",
+        "quali": "2025-12-06T11:00:00Z",
+        "race": "2025-12-07T10:00:00Z"
+}
     }
 ],
     "driversStandings": [
