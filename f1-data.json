@@ -841,7 +841,7 @@
 }
     }
 ],
-    "driversStandings": [
+"driversStandings": [
     {
         "position": 1,
         "driver": "Lando Norris",
@@ -997,7 +997,7 @@
     {
         "position": 9,
         "driver": "Esteban Ocon",
-        "team": "Haas",
+        "team": "Alpine",
         "points": 10,
         "nationality": "French",
         "driverNumber": 31,
@@ -1005,7 +1005,7 @@
         "wins": 1,
         "podiums": 4,
         "debut": "2016 Belgian Grand Prix",
-        "bio": "Esteban Ocon, a French driver 🇫🇷, races for Haas. Known for his work ethic 💼 and consistency, Ocon has been a steady performer in the midfield, with his first F1 win coming in Hungary in 2021 🏅.",
+        "bio": "Esteban Ocon, a French driver 🇫🇷, races for Alpine. Known for his work ethic 💼 and consistency, Ocon has been a steady performer in the midfield, with his first F1 win coming in Hungary in 2021 🏅.",
         "races": 160,
         "bestGridPosition": "3",
         "bestRaceFinish": "1",
@@ -1035,7 +1035,7 @@
     {
         "position": 11,
         "driver": "Nico Hulkenberg",
-        "team": "Sauber",
+        "team": "Haas",
         "points": 6,
         "nationality": "German",
         "driverNumber": 27,
@@ -1043,7 +1043,7 @@
         "wins": 0,
         "podiums": 0,
         "debut": "2010 Bahrain Grand Prix",
-        "bio": "Nico Hulkenberg, a veteran German driver 🇩🇪, is known for his consistency and qualifying speed ⏱️. Despite never achieving a podium in F1 😢, Hulkenberg remains a respected figure in the paddock, often extracting the maximum from the Sauber car 💪.",
+        "bio": "Nico Hulkenberg, a veteran German driver 🇩🇪, is known for his consistency and qualifying speed ⏱️. Despite never achieving a podium in F1 😢, Hulkenberg remains a respected figure in the paddock, often extracting the maximum from the Haas car 💪.",
         "races": 231,
         "bestGridPosition": "1",
         "bestRaceFinish": "4",
@@ -1148,6 +1148,25 @@
     },
     {
         "position": 17,
+        "driver": "Fernando Alonso",
+        "team": "Aston Martin",
+        "points": 0,
+        "nationality": "Spanish",
+        "driverNumber": 14,
+        "dateOfBirth": "1981-07-29",
+        "wins": 32,
+        "podiums": 106,
+        "debut": "2001 Australian Grand Prix",
+        "bio": "Fernando Alonso, a two-time world champion 🏆🏆, continues to race for Aston Martin in 2025. Known for his experience 🧠 and relentless drive 💪, Alonso remains a formidable competitor despite being the oldest driver on the grid 👴.",
+        "races": 405,
+        "bestGridPosition": "1",
+        "bestRaceFinish": "1",
+        "wdcWins": 2,
+        "careerYears": 22,
+        "careerEarnings": 250000000
+    },
+    {
+        "position": 18,
         "driver": "Liam Lawson",
         "team": "RB",
         "points": 0,
@@ -1166,7 +1185,7 @@
         "careerEarnings": 3000000
     },
     {
-        "position": 18,
+        "position": 19,
         "driver": "Jack Doohan",
         "team": "Alpine",
         "points": 0,
@@ -1185,7 +1204,7 @@
         "careerEarnings": 600000
     },
     {
-        "position": 19,
+        "position": 20,
         "driver": "Gabriel Bortoleto",
         "team": "Sauber",
         "points": 0,
@@ -1202,25 +1221,6 @@
         "wdcWins": 0,
         "careerYears": 1,
         "careerEarnings": 500000
-    },
-    {
-        "position": 20,
-        "driver": "Fernando Alonso",
-        "team": "Aston Martin",
-        "points": 0,
-        "nationality": "Spanish",
-        "driverNumber": 14,
-        "dateOfBirth": "1981-07-29",
-        "wins": 32,
-        "podiums": 106,
-        "debut": "2001 Australian Grand Prix",
-        "bio": "Fernando Alonso, a two-time world champion 🏆🏆, continues to race for Aston Martin in 2025. Known for his experience 🧠 and relentless drive 💪, Alonso remains a formidable competitor despite being the oldest driver on the grid 👴.",
-        "races": 405,
-        "bestGridPosition": "1",
-        "bestRaceFinish": "1",
-        "wdcWins": 2,
-        "careerYears": 22,
-        "careerEarnings": 250000000
     }
 ],
 "constructorsStandings": [
