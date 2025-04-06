@@ -192,6 +192,28 @@
             "practice2": "2025-04-04T06:00:00Z",
             "practice3": "2025-04-05T02:30:00Z",
             "quali": "2025-04-05T06:00:00Z",
+            "qualiResults": {
+                "1": "Max Verstappen",
+                "2": "Lando Norris",
+                "3": "Oscar Piastri",
+                "4": "Charles Leclerc",
+                "5": "George Russell",
+                "6": "Kimi Antonelli",
+                "7": "Isack Hadjar",
+                "8": "Lewis Hamilton",
+                "9": "Alex Albon",
+                "10": "Oliver Bearman",
+                "11": "Pierre Gasly",
+                "12": "Carlos Sainz",
+                "13": "Fernando Alonso",
+                "14": "Liam Lawson",
+                "15": "Yuki Tsunoda",
+                "16": "Nico Hulkenberg",
+                "17": "Gabriel Bortoleto",
+                "18": "Esteban Ocon",
+                "19": "Jack Doohan",
+                "20": "Lance Stroll"
+            },
             "race": "2025-04-06T05:00:00Z"
         }
     },
