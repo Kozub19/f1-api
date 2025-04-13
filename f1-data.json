@@ -280,10 +280,10 @@
         "quali": "2025-04-12T16:00:00Z",
         "qualiResults": {
                 "1": "Oscar Piastri",
-                "2": "George Russell",
-                "3": "Charles Leclerc",
-                "4": "Kimi Antonelli",
-                "5": "Pierre Galsy",
+                "2": "Charles Leclerc",
+                "3": "George Russell",
+                "4": "Pierre Gasly",
+                "5": "Kimi Antonelli",
                 "6": "Lando Norris",
                 "7": "Max Verstappen",
                 "8": "Carlos Sainz",
@@ -293,13 +293,13 @@
                 "12": "Isack Hadjar",
                 "13": "Fernando Alonso",
                 "14": "Esteban Ocon",
-                "15": "Alex Albon",
+                "15": "Alexander Albon",
                 "16": "Nico Hulkenberg",
                 "17": "Liam Lawson",
                 "18": "Gabriel Bortoleto",
                 "19": "Lance Stroll",
                 "20": "Oliver Bearman"
-            },
+},
         "race": "2025-04-13T15:00:00Z"
 }
     },
