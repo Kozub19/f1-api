@@ -248,8 +248,8 @@
                 "16": "Nico Hulkenberg",
                 "17": "Liam Lawson",
                 "18": "Esteban Ocon",
-                "DNF": "Carlos Sainz",
-                "DQ": "Nico Hulkenberg"
+                "19": "Gabriel Bortoleto",
+                "20": "Lance Stroll"
     }
         }
     },
@@ -320,8 +320,8 @@
             "16": "Liam Lawson",
             "17": "Lance Stroll",
             "18": "Gabriel Bortoleto",
-            "19": "Gabriel Bortoleto",
-            "20": "Lance Stroll"
+            "DNF": ["Carlos Sainz"],
+            "DQ": ["Nico Hulkenberg"]
 }
         
 }
