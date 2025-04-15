@@ -248,8 +248,8 @@
                 "16": "Nico Hulkenberg",
                 "17": "Liam Lawson",
                 "18": "Esteban Ocon",
-                "19": "Gabriel Bortoleto",
-                "20": "Lance Stroll"
+                "DNF": "Carlos Sainz",
+                "DQ": "Nico Hulkenberg"
     }
         }
     },
@@ -300,7 +300,30 @@
                 "19": "Lance Stroll",
                 "20": "Oliver Bearman"
 },
-        "race": "2025-04-13T15:00:00Z"
+        "race": "2025-04-13T15:00:00Z", 
+        "raceResults": {
+            "1": "Oscar Piastri",
+            "2": "George Russell",
+            "3": "Lando Norris",
+            "4": "Charles Leclerc",
+            "5": "Lewis Hamilton",
+            "6": "Max Verstppen",
+            "7": "Pierre Gasly",
+            "8": "Esteban Ocon",
+            "9": "Yuki Tsunoda",
+            "10": "Oliver Bearman",
+            "11": "Kimi Antonelli",
+            "12": "Alexander Albon",
+            "13": "Isack Hadjar",
+            "14": "Jack Doohan",
+            "15": "Fernando Alonso",
+            "16": "Liam Lawson",
+            "17": "Lance Stroll",
+            "18": "Gabriel Bortoleto",
+            "19": "Gabriel Bortoleto",
+            "20": "Lance Stroll"
+}
+        
 }
     },
     {
@@ -863,14 +886,13 @@
 }
     }
 ],
-"driversStandings": [
-    {
+ "driversStandings": [
+      {
         "position": 1,
         "driver": "Lando Norris",
         "team": "McLaren",
-        "points": 62,
+        "points": 77,
         "nationality": "British",
-        "driverNumber": 4,
         "dateOfBirth": "1999-11-13",
         "wins": 5,
         "podiums": 29,
@@ -882,31 +904,12 @@
         "wdcWins": 0,
         "careerYears": 8,
         "careerEarnings": 45000000
-    },
-    {
+      },
+      {
         "position": 2,
-        "driver": "Max Verstappen",
-        "team": "Red Bull Racing",
-        "points": 61,
-        "nationality": "Dutch",
-        "driverNumber": 1,
-        "dateOfBirth": "1997-09-30",
-        "wins": 64,
-        "podiums": 113,
-        "debut": "2015 Australian Grand Prix",
-        "bio": "Max Verstappen, a Dutch prodigy 🇳🇱, became the youngest F1 race winner in 2016 with Red Bull 🏁. Known for his aggressive driving style 🔥 and incredible racecraft, Verstappen has dominated recent seasons, securing multiple world championships 🏆 and establishing himself as one of F1's all-time greats 🌟.",
-        "races": 213,
-        "bestGridPosition": "1",
-        "bestRaceFinish": "1",
-        "wdcWins": 4,
-        "careerYears": 12,
-        "careerEarnings": 150000000
-    },
-    {
-        "position": 3,
         "driver": "Oscar Piastri",
         "team": "McLaren",
-        "points": 49,
+        "points": 74,
         "nationality": "Australian",
         "driverNumber": 81,
         "dateOfBirth": "2001-04-06",
@@ -920,12 +923,31 @@
         "wdcWins": 0,
         "careerYears": 3,
         "careerEarnings": 12000000
-    },
-    {
+      },
+      {
+        "position": 3,
+        "driver": "Max Verstappen",
+        "team": "Red Bull Racing",
+        "points": 69,
+        "nationality": "Dutch",
+        "driverNumber": 1,
+        "dateOfBirth": "1997-09-30",
+        "wins": 64,
+        "podiums": 113,
+        "debut": "2015 Australian Grand Prix",
+        "bio": "Max Verstappen, a Dutch prodigy 🇳🇱, became the youngest F1 race winner in 2016 with Red Bull 🏁. Known for his aggressive driving style 🔥 and incredible racecraft, Verstappen has dominated recent seasons, securing multiple world championships 🏆 and establishing himself as one of F1's all-time greats 🌟.",
+        "races": 213,
+        "bestGridPosition": "1",
+        "bestRaceFinish": "1",
+        "wdcWins": 4,
+        "careerYears": 12,
+        "careerEarnings": 150000000
+      },
+      {
         "position": 4,
         "driver": "George Russell",
         "team": "Mercedes",
-        "points": 45,
+        "points": 63,
         "nationality": "British",
         "driverNumber": 63,
         "dateOfBirth": "1998-02-15",
@@ -939,9 +961,28 @@
         "wdcWins": 0,
         "careerYears": 8,
         "careerEarnings": 30000000
-    },
-    {
+      },
+      {
         "position": 5,
+        "driver": "Charles Leclerc",
+        "team": "Ferrari",
+        "points": 32,
+        "nationality": "Monegasque",
+        "driverNumber": 16,
+        "dateOfBirth": "1997-10-16",
+        "wins": 8,
+        "podiums": 43,
+        "debut": "2018 Australian Grand Prix",
+        "bio": "Charles Leclerc, a Monegasque driver 🇲🇨, joined Ferrari in 2019 and quickly became a fan favorite ❤️. Known for his raw speed 🏎️ and emotional connection with the Tifosi 🇮🇹, Leclerc is seen as Ferrari's hope for a future championship 🏆.",
+        "races": 151,
+        "bestGridPosition": "1",
+        "bestRaceFinish": "1",
+        "wdcWins": 0,
+        "careerYears": 10,
+        "careerEarnings": 50000000
+      },
+      {
+        "position": 6,
         "driver": "Kimi Antonelli",
         "team": "Mercedes",
         "points": 30,
@@ -958,28 +999,28 @@
         "wdcWins": 0,
         "careerYears": 1,
         "careerEarnings": 1000000
-    },
-    {
-        "position": 6,
-        "driver": "Charles Leclerc",
+      },
+      {
+        "position": 7,
+        "driver": "Lewis Hamilton",
         "team": "Ferrari",
-        "points": 20,
-        "nationality": "Monegasque",
-        "driverNumber": 16,
-        "dateOfBirth": "1997-10-16",
-        "wins": 8,
-        "podiums": 43,
-        "debut": "2018 Australian Grand Prix",
-        "bio": "Charles Leclerc, a Monegasque driver 🇲🇨, joined Ferrari in 2019 and quickly became a fan favorite ❤️. Known for his raw speed 🏎️ and emotional connection with the Tifosi 🇮🇹, Leclerc is seen as Ferrari's hope for a future championship 🏆.",
-        "races": 151,
+        "points": 25,
+        "nationality": "British",
+        "driverNumber": 44,
+        "dateOfBirth": "1985-01-07",
+        "wins": 105,
+        "podiums": 202,
+        "debut": "2007 Australian Grand Prix",
+        "bio": "Lewis Hamilton, a seven-time world champion 🏆🏆🏆🏆🏆🏆🏆, joined Ferrari in 2025 after a legendary tenure with Mercedes. Known for his activism ✊ and record-breaking career 🌟, Hamilton aims to end his F1 journey with another title at the iconic Italian team 🇮🇹🔴.",
+        "races": 360,
         "bestGridPosition": "1",
         "bestRaceFinish": "1",
-        "wdcWins": 0,
-        "careerYears": 10,
-        "careerEarnings": 50000000
-    },
-    {
-        "position": 7,
+        "wdcWins": 7,
+        "careerYears": 19,
+        "careerEarnings": 500000000
+      },
+      {
+        "position": 8,
         "driver": "Alex Albon",
         "team": "Williams",
         "points": 18,
@@ -996,31 +1037,12 @@
         "wdcWins": 0,
         "careerYears": 6,
         "careerEarnings": 20000000
-    },
-    {
-        "position": 8,
-        "driver": "Lewis Hamilton",
-        "team": "Ferrari",
-        "points": 15,
-        "nationality": "British",
-        "driverNumber": 44,
-        "dateOfBirth": "1985-01-07",
-        "wins": 105,
-        "podiums": 202,
-        "debut": "2007 Australian Grand Prix",
-        "bio": "Lewis Hamilton, a seven-time world champion 🏆🏆🏆🏆🏆🏆🏆, joined Ferrari in 2025 after a legendary tenure with Mercedes. Known for his activism ✊ and record-breaking career 🌟, Hamilton aims to end his F1 journey with another title at the iconic Italian team 🇮🇹🔴.",
-        "races": 360,
-        "bestGridPosition": "1",
-        "bestRaceFinish": "1",
-        "wdcWins": 7,
-        "careerYears": 19,
-        "careerEarnings": 500000000
-    },
-    {
+      },
+      {
         "position": 9,
         "driver": "Esteban Ocon",
-        "team": "Alpine",
-        "points": 10,
+        "team": "Haas",
+        "points": 14,
         "nationality": "French",
         "driverNumber": 31,
         "dateOfBirth": "1996-09-17",
@@ -1034,8 +1056,8 @@
         "wdcWins": 0,
         "careerYears": 10,
         "careerEarnings": 20000000
-    },
-    {
+      },
+      {
         "position": 10,
         "driver": "Lance Stroll",
         "team": "Aston Martin",
@@ -1053,11 +1075,30 @@
         "wdcWins": 0,
         "careerYears": 9,
         "careerEarnings": 25000000
-    },
-    {
+      },
+      {
         "position": 11,
+        "driver": "Pierre Gasly",
+        "team": "Alpine",
+        "points": 6,
+        "nationality": "French",
+        "driverNumber": 10,
+        "dateOfBirth": "1996-02-07",
+        "wins": 1,
+        "podiums": 5,
+        "debut": "2017 Malaysian Grand Prix",
+        "bio": "Pierre Gasly, a French driver 🇫🇷, races for Alpine. Known for his speed 🏎️ and resilience 💪, Gasly scored his first F1 win at Monza in 2020 with AlphaTauri 🏆, and continues to be a strong midfield contender 🔥.",
+        "races": 151,
+        "bestGridPosition": "2",
+        "bestRaceFinish": "1",
+        "wdcWins": 0,
+        "careerYears": 9,
+        "careerEarnings": 25000000
+      },
+      {
+        "position": 12,
         "driver": "Nico Hulkenberg",
-        "team": "Haas",
+        "team": "Sauber",
         "points": 6,
         "nationality": "German",
         "driverNumber": 27,
@@ -1072,12 +1113,12 @@
         "wdcWins": 0,
         "careerYears": 15,
         "careerEarnings": 35000000
-    },
-    {
-        "position": 12,
+      },
+      {
+        "position": 13,
         "driver": "Oliver Bearman",
         "team": "Haas",
-        "points": 5,
+        "points": 6,
         "nationality": "British",
         "driverNumber": 87,
         "dateOfBirth": "2005-05-08",
@@ -1091,9 +1132,28 @@
         "wdcWins": 0,
         "careerYears": 1,
         "careerEarnings": 800000
-    },
-    {
-        "position": 13,
+      },
+      {
+        "position": 14,
+        "driver": "Yuki Tsunoda",
+        "team": "Red Bull Racing",
+        "points": 5,
+        "nationality": "Japanese",
+        "driverNumber": 22,
+        "dateOfBirth": "2000-05-11",
+        "wins": 0,
+        "podiums": 0,
+        "debut": "2021 Bahrain Grand Prix",
+        "bio": "Yuki Tsunoda, a Japanese driver 🇯🇵, races for RB. Known for his aggressive driving 🔥 and fiery radio messages 📡, Tsunoda has matured into a consistent points-scorer for his team 💪.",
+        "races": 91,
+        "bestGridPosition": "5",
+        "bestRaceFinish": "4",
+        "wdcWins": 0,
+        "careerYears": 5,
+        "careerEarnings": 10000000
+      },
+      {
+        "position": 15,
         "driver": "Isack Hadjar",
         "team": "RB",
         "points": 4,
@@ -1110,28 +1170,9 @@
         "wdcWins": 0,
         "careerYears": 1,
         "careerEarnings": 700000
-    },
-    {
-        "position": 14,
-        "driver": "Yuki Tsunoda",
-        "team": "Red Bull Racing",
-        "points": 3,
-        "nationality": "Japanese",
-        "driverNumber": 22,
-        "dateOfBirth": "2000-05-11",
-        "wins": 0,
-        "podiums": 0,
-        "debut": "2021 Bahrain Grand Prix",
-        "bio": "Yuki Tsunoda, a Japanese driver 🇯🇵, races for RB. Known for his aggressive driving 🔥 and fiery radio messages 📡, Tsunoda has matured into a consistent points-scorer for his team 💪.",
-        "races": 91,
-        "bestGridPosition": "5",
-        "bestRaceFinish": "4",
-        "wdcWins": 0,
-        "careerYears": 5,
-        "careerEarnings": 10000000
-    },
-    {
-        "position": 15,
+      },
+      {
+        "position": 16,
         "driver": "Carlos Sainz",
         "team": "Williams",
         "points": 1,
@@ -1148,27 +1189,8 @@
         "wdcWins": 0,
         "careerYears": 11,
         "careerEarnings": 40000000
-    },
-    {
-        "position": 16,
-        "driver": "Pierre Gasly",
-        "team": "Alpine",
-        "points": 0,
-        "nationality": "French",
-        "driverNumber": 10,
-        "dateOfBirth": "1996-02-07",
-        "wins": 1,
-        "podiums": 5,
-        "debut": "2017 Malaysian Grand Prix",
-        "bio": "Pierre Gasly, a French driver 🇫🇷, races for Alpine. Known for his speed 🏎️ and resilience 💪, Gasly scored his first F1 win at Monza in 2020 with AlphaTauri 🏆, and continues to be a strong midfield contender 🔥.",
-        "races": 151,
-        "bestGridPosition": "2",
-        "bestRaceFinish": "1",
-        "wdcWins": 0,
-        "careerYears": 9,
-        "careerEarnings": 25000000
-    },
-    {
+      },
+      {
         "position": 17,
         "driver": "Fernando Alonso",
         "team": "Aston Martin",
@@ -1186,8 +1208,8 @@
         "wdcWins": 2,
         "careerYears": 22,
         "careerEarnings": 250000000
-    },
-    {
+      },
+      {
         "position": 18,
         "driver": "Liam Lawson",
         "team": "RB",
@@ -1205,8 +1227,8 @@
         "wdcWins": 0,
         "careerYears": 4,
         "careerEarnings": 3000000
-    },
-    {
+      },
+      {
         "position": 19,
         "driver": "Jack Doohan",
         "team": "Alpine",
@@ -1224,8 +1246,8 @@
         "wdcWins": 0,
         "careerYears": 1,
         "careerEarnings": 600000
-    },
-    {
+      },
+      {
         "position": 20,
         "driver": "Gabriel Bortoleto",
         "team": "Sauber",
@@ -1243,13 +1265,13 @@
         "wdcWins": 0,
         "careerYears": 1,
         "careerEarnings": 500000
-    }
-],
-"constructorsStandings": [
-    {
+      }
+    ],
+    "constructorsStandings": [
+      {
         "position": 1,
         "team": "McLaren",
-        "points": 111,
+        "points": 151,
         "seasons": 60,
         "racesCompleted": 974,
         "polePositions": 166,
@@ -1262,11 +1284,11 @@
         "powerUnit": "Mercedes",
         "drivers": ["Lando Norris", "Oscar Piastri"],
         "bio": "McLaren was founded in 1963 by Bruce McLaren and has since become one of the most successful teams in Formula 1 history. Based in Woking, Surrey, McLaren is known for its engineering excellence and has produced champions like Ayrton Senna and Lewis Hamilton."
-    },
-    {
+      },
+      {
         "position": 2,
         "team": "Mercedes",
-        "points": 75,
+        "points": 93,
         "seasons": 18,
         "racesCompleted": 321,
         "polePositions": 141,
@@ -1279,11 +1301,11 @@
         "powerUnit": "Mercedes",
         "drivers": ["George Russell", "Kimi Antonelli"],
         "bio": "Mercedes returned to Formula 1 as a constructor in 2010 and quickly became a dominant force, especially during the hybrid era. Based in Brackley, the team has been home to legends like Lewis Hamilton and continues to push the boundaries of technology."
-    },
-    {
+      },
+      {
         "position": 3,
         "team": "Red Bull Racing",
-        "points": 61,
+        "points": 74,
         "seasons": 21,
         "racesCompleted": 397,
         "polePositions": 103,
@@ -1296,11 +1318,11 @@
         "powerUnit": "Honda RBPT",
         "drivers": ["Max Verstappen", "Yuki Tsunoda"],
         "bio": "Red Bull Racing, founded in 2005, is based in Milton Keynes and has been a powerhouse in F1, especially with drivers like Sebastian Vettel and Max Verstappen. Known for its aggressive strategies and innovative designs."
-    },
-    {
+      },
+      {
         "position": 4,
         "team": "Ferrari",
-        "points": 35,
+        "points": 57,
         "seasons": 76,
         "racesCompleted": 1102,
         "polePositions": 253,
@@ -1313,9 +1335,26 @@
         "powerUnit": "Ferrari",
         "drivers": ["Charles Leclerc", "Lewis Hamilton"],
         "bio": "Ferrari, founded in 1950, is the most iconic team in F1 history. Based in Maranello, Italy, Ferrari has a passionate fanbase, the Tifosi, and a legacy of champions like Michael Schumacher."
-    },
-    {
+      },
+      {
         "position": 5,
+        "team": "Haas",
+        "points": 20,
+        "seasons": 10,
+        "racesCompleted": 194,
+        "polePositions": 1,
+        "podiums": 0,
+        "raceWins": 0,
+        "wccWins": 0,
+        "wdcWins": 0,
+        "nationality": "American",
+        "base": "Kannapolis, USA",
+        "powerUnit": "Ferrari",
+        "drivers": ["Oliver Bearman", "Esteban Ocon"],
+        "bio": "Haas, an American team founded in 2016, is based in Kannapolis, North Carolina, with operations in Banbury, UK. Known for its partnership with Ferrari, Haas focuses on efficiency in the midfield."
+      },
+      {
+        "position": 6,
         "team": "Williams",
         "points": 19,
         "seasons": 50,
@@ -1330,25 +1369,8 @@
         "powerUnit": "Mercedes",
         "drivers": ["Alex Albon", "Carlos Sainz"],
         "bio": "Williams, founded in 1977 by Frank Williams, is one of the most storied teams in F1. Based in Grove, the team dominated in the 1980s and 1990s but has struggled in recent years, aiming for a comeback."
-    },
-    {
-        "position": 6,
-        "team": "Haas",
-        "points": 15,
-        "seasons": 10,
-        "racesCompleted": 194,
-        "polePositions": 1,
-        "podiums": 0,
-        "raceWins": 0,
-        "wccWins": 0,
-        "wdcWins": 0,
-        "nationality": "American",
-        "base": "Kannapolis, USA",
-        "powerUnit": "Ferrari",
-        "drivers": ["Oliver Bearman", "Esteban Ocon"],
-        "bio": "Haas, an American team founded in 2016, is based in Kannapolis, North Carolina, with operations in Banbury, UK. Known for its partnership with Ferrari, Haas focuses on efficiency in the midfield."
-    },
-    {
+      },
+      {
         "position": 7,
         "team": "Aston Martin",
         "points": 10,
@@ -1364,8 +1386,8 @@
         "powerUnit": "Mercedes",
         "drivers": ["Fernando Alonso", "Lance Stroll"],
         "bio": "Aston Martin returned to F1 in 2021, with its base in Silverstone. Backed by Lawrence Stroll, the team aims to become a championship contender with drivers like Fernando Alonso."
-    },
-    {
+      },
+      {
         "position": 8,
         "team": "RB",
         "points": 7,
@@ -1381,9 +1403,26 @@
         "powerUnit": "Honda RBPT",
         "drivers": ["Isack Hadjar", "Liam Lawson"],
         "bio": "RB, formerly AlphaTauri, is Red Bull's sister team, based in Faenza, Italy. Since 2020, it has served as a development team for Red Bull's young drivers like Yuki Tsunoda."
-    },
-    {
+      },
+      {
         "position": 9,
+        "team": "Alpine",
+        "points": 6,
+        "seasons": 4,
+        "racesCompleted": 94,
+        "polePositions": 0,
+        "podiums": 6,
+        "raceWins": 1,
+        "wccWins": 0,
+        "wdcWins": 0,
+        "nationality": "French",
+        "base": "Enstone, UK",
+        "powerUnit": "Renault",
+        "drivers": ["Pierre Gasly", "Jack Doohan"],
+        "bio": "Alpine, the rebranded Renault team, joined F1 in 2021. Based in Enstone, UK, and Viry-Châtillon, France, Alpine aims to bring French flair to the grid with drivers like Esteban Ocon."
+      },
+      {
+        "position": 10,
         "team": "Sauber",
         "points": 6,
         "seasons": 21,
@@ -1398,23 +1437,6 @@
         "powerUnit": "Ferrari",
         "drivers": ["Nico Hulkenberg", "Gabriel Bortoleto"],
         "bio": "Sauber, based in Hinwil, Switzerland, has been in F1 since 1993. Set to become Audi in 2026, the team has a history of nurturing talent like Kimi Räikkönen."
-    },
-    {
-        "position": 10,
-        "team": "Alpine",
-        "points": 0,
-        "seasons": 4,
-        "racesCompleted": 94,
-        "polePositions": 0,
-        "podiums": 6,
-        "raceWins": 1,
-        "wccWins": 0,
-        "wdcWins": 0,
-        "nationality": "French",
-        "base": "Enstone, UK",
-        "powerUnit": "Renault",
-        "drivers": ["Pierre Gasly", "Jack Doohan"],
-        "bio": "Alpine, the rebranded Renault team, joined F1 in 2021. Based in Enstone, UK, and Viry-Châtillon, France, Alpine aims to bring French flair to the grid with drivers like Esteban Ocon."
-    }
-]
-}
+      }
+    ]
+  }
